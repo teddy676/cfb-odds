@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T18:00:07.146Z",
+  "fetched_at": "2026-11-21T20:20:06.838Z",
   "trigger": "scheduled",
   "source": "the-odds-api.com v4",
   "sport": "americanfootball_ncaaf",
@@ -14,76 +14,9 @@
     "bovada",
     "betonlineag"
   ],
-  "requests_remaining": "314",
-  "game_count": 61,
+  "requests_remaining": "311",
+  "game_count": 60,
   "games": [
-    {
-      "id": "4336f3fcf7e287f1609c1822fef8f63d",
-      "kickoff": "2026-11-21T17:00:00Z",
-      "away": "East Carolina Pirates",
-      "home": "Army Black Knights",
-      "books_counted": 5,
-      "spreads": {
-        "Army Black Knights": {
-          "consensus": -4,
-          "best_point": -3.5,
-          "best_book": "betmgm",
-          "best_price": 100,
-          "all": [
-            "fanduel:-4.5(-108)",
-            "draftkings:-3.5(-115)",
-            "espnbet:-4.5(-110)",
-            "betmgm:-3.5(100)",
-            "bovada:-4(-115)"
-          ]
-        },
-        "East Carolina Pirates": {
-          "consensus": 4,
-          "best_point": 4.5,
-          "best_book": "espnbet",
-          "best_price": -120,
-          "all": [
-            "fanduel:+4.5(-122)",
-            "draftkings:+3.5(-115)",
-            "espnbet:+4.5(-120)",
-            "betmgm:+3.5(-130)",
-            "bovada:+4(-115)"
-          ]
-        }
-      },
-      "total": {
-        "consensus": 30.5,
-        "best_over": {
-          "point": 26.5,
-          "book": "betmgm",
-          "price": -125
-        },
-        "best_under": {
-          "point": 30.5,
-          "book": "fanduel",
-          "price": -128
-        },
-        "all": [
-          "fanduel:30.5",
-          "draftkings:30.5",
-          "espnbet:30.5",
-          "betmgm:26.5",
-          "bovada:30.5"
-        ]
-      },
-      "moneyline": {
-        "Army Black Knights": {
-          "consensus": -222.5,
-          "best_price": -213,
-          "best_book": "draftkings"
-        },
-        "East Carolina Pirates": {
-          "consensus": 170,
-          "best_price": 180,
-          "best_book": "fanduel"
-        }
-      }
-    },
     {
       "id": "af2b2232df20a470d516dbe474a63132",
       "kickoff": "2026-11-21T17:00:00Z",
@@ -92,61 +25,55 @@
       "books_counted": 5,
       "spreads": {
         "Memphis Tigers": {
-          "consensus": 1.5,
-          "best_point": 2.5,
+          "consensus": -2.5,
+          "best_point": -2.5,
           "best_book": "betmgm",
-          "best_price": -112,
+          "best_price": -120,
           "all": [
-            "fanduel:+2.5(-120)",
-            "draftkings:+1.5(-112)",
-            "espnbet:-2.5(-120)",
-            "betmgm:+2.5(-112)",
-            "bovada:-2.5(-115)"
+            "fanduel:-2.5(-132)",
+            "draftkings:-2.5(-133)",
+            "betmgm:-2.5(-120)"
           ]
         },
         "Navy Midshipmen": {
-          "consensus": -1.5,
+          "consensus": 2.5,
           "best_point": 2.5,
-          "best_book": "espnbet",
-          "best_price": -110,
+          "best_book": "fanduel",
+          "best_price": 100,
           "all": [
-            "fanduel:-2.5(-110)",
-            "draftkings:-1.5(-118)",
-            "espnbet:+2.5(-110)",
-            "betmgm:-2.5(-118)",
-            "bovada:+2.5(-115)"
+            "fanduel:+2.5(100)",
+            "draftkings:+2.5(100)",
+            "betmgm:+2.5(-108)"
           ]
         }
       },
       "total": {
-        "consensus": 62.5,
+        "consensus": 71.5,
         "best_over": {
-          "point": 59.5,
-          "book": "espnbet",
-          "price": -115
+          "point": 71.5,
+          "book": "fanduel",
+          "price": -188
         },
         "best_under": {
-          "point": 64.5,
+          "point": 72.5,
           "book": "betmgm",
-          "price": -110
+          "price": -175
         },
         "all": [
-          "fanduel:62.5",
-          "draftkings:62.5",
-          "espnbet:59.5",
-          "betmgm:64.5",
-          "bovada:60.5"
+          "fanduel:71.5",
+          "draftkings:71.5",
+          "betmgm:72.5"
         ]
       },
       "moneyline": {
         "Memphis Tigers": {
-          "consensus": -16.5,
-          "best_price": 102,
-          "best_book": "fanduel"
+          "consensus": -157,
+          "best_price": -135,
+          "best_book": "bovada"
         },
         "Navy Midshipmen": {
-          "consensus": -11.5,
-          "best_price": 120,
+          "consensus": 121,
+          "best_price": 125,
           "best_book": "espnbet"
         }
       }
@@ -159,62 +86,50 @@
       "books_counted": 5,
       "spreads": {
         "Minnesota Golden Gophers": {
-          "consensus": 1.5,
-          "best_point": 2.5,
-          "best_book": "fanduel",
-          "best_price": -122,
+          "consensus": -2.5,
+          "best_point": -2.5,
+          "best_book": "draftkings",
+          "best_price": -433,
           "all": [
-            "fanduel:+2.5(-122)",
-            "espnbet:-1.5(100)",
-            "draftkings:+1.5(-122)",
-            "betmgm:+1.5(-112)",
-            "bovada:-1(-115)"
+            "draftkings:-2.5(-433)"
           ]
         },
         "Northwestern Wildcats": {
-          "consensus": -1.5,
-          "best_point": 1.5,
-          "best_book": "espnbet",
-          "best_price": -130,
+          "consensus": 2.5,
+          "best_point": 2.5,
+          "best_book": "draftkings",
+          "best_price": 296,
           "all": [
-            "fanduel:-2.5(-106)",
-            "espnbet:+1.5(-130)",
-            "draftkings:-1.5(-109)",
-            "betmgm:-1.5(-115)",
-            "bovada:+1(-115)"
+            "draftkings:+2.5(296)"
           ]
         }
       },
       "total": {
-        "consensus": 25.5,
+        "consensus": 37.5,
         "best_over": {
-          "point": 23.5,
-          "book": "fanduel",
-          "price": -130
+          "point": 37.5,
+          "book": "draftkings",
+          "price": 185
         },
         "best_under": {
-          "point": 27.5,
-          "book": "bovada",
-          "price": -120
+          "point": 37.5,
+          "book": "draftkings",
+          "price": -254
         },
         "all": [
-          "fanduel:23.5",
-          "espnbet:25.5",
-          "draftkings:25.5",
-          "betmgm:24.5",
-          "bovada:27.5"
+          "draftkings:37.5"
         ]
       },
       "moneyline": {
         "Minnesota Golden Gophers": {
-          "consensus": -108,
-          "best_price": 100,
-          "best_book": "fanduel"
+          "consensus": -564,
+          "best_price": -105,
+          "best_book": "bovada"
         },
         "Northwestern Wildcats": {
-          "consensus": -123,
-          "best_price": -110,
-          "best_book": "bovada"
+          "consensus": 367,
+          "best_price": 475,
+          "best_book": "espnbet"
         }
       }
     },
@@ -226,45 +141,44 @@
       "books_counted": 4,
       "spreads": {
         "Ole Miss Rebels": {
-          "consensus": -58.5,
-          "best_point": -56.5,
-          "best_book": "fanduel",
-          "best_price": -120,
+          "consensus": -42.5,
+          "best_point": -42.5,
+          "best_book": "draftkings",
+          "best_price": 1440,
           "all": [
-            "fanduel:-56.5(-120)",
-            "draftkings:-58.5(-125)",
-            "betmgm:-59.5(-115)"
+            "fanduel:-42.5(750)",
+            "draftkings:-42.5(1440)",
+            "betmgm:-42.5(360)"
           ]
         },
         "Wofford Terriers": {
-          "consensus": 58.5,
-          "best_point": 59.5,
+          "consensus": 42.5,
+          "best_point": 42.5,
           "best_book": "betmgm",
-          "best_price": -115,
+          "best_price": -550,
           "all": [
-            "fanduel:+56.5(-110)",
-            "draftkings:+58.5(-106)",
-            "betmgm:+59.5(-115)"
+            "fanduel:+42.5(-2000)",
+            "draftkings:+42.5(-7600)",
+            "betmgm:+42.5(-550)"
           ]
         }
       },
       "total": {
-        "consensus": 72.5,
+        "consensus": 76.5,
         "best_over": {
-          "point": 72.5,
-          "book": "fanduel",
-          "price": 100
+          "point": 76.5,
+          "book": "draftkings",
+          "price": 1400
         },
         "best_under": {
-          "point": 72.5,
-          "book": "fanduel",
-          "price": -132
+          "point": 76.5,
+          "book": "draftkings",
+          "price": -6700
         },
         "all": [
-          "fanduel:72.5",
-          "draftkings:72.5",
-          "espnbet:72.5",
-          "betmgm:72.5"
+          "draftkings:76.5",
+          "espnbet:76.5",
+          "betmgm:76.5"
         ]
       },
       "moneyline": {}
@@ -274,67 +188,53 @@
       "kickoff": "2026-11-21T17:00:00Z",
       "away": "Wisconsin Badgers",
       "home": "Purdue Boilermakers",
-      "books_counted": 5,
+      "books_counted": 4,
       "spreads": {
         "Purdue Boilermakers": {
-          "consensus": 15.5,
-          "best_point": 16.5,
-          "best_book": "draftkings",
-          "best_price": -117,
+          "consensus": 32.5,
+          "best_point": 32.5,
+          "best_book": "betmgm",
+          "best_price": -1200,
           "all": [
-            "fanduel:+16.5(-130)",
-            "espnbet:+15.5(-115)",
-            "draftkings:+16.5(-117)",
-            "betmgm:+15.5(-115)",
-            "bovada:+15.5(-115)"
+            "fanduel:+32.5(-5000)",
+            "espnbet:+31.5(400)",
+            "draftkings:+32.5(-10000)",
+            "betmgm:+32.5(-1200)"
           ]
         },
         "Wisconsin Badgers": {
-          "consensus": -15.5,
-          "best_point": -15.5,
+          "consensus": -32.5,
+          "best_point": -31.5,
           "best_book": "espnbet",
-          "best_price": -115,
+          "best_price": -700,
           "all": [
-            "fanduel:-16.5(-102)",
-            "espnbet:-15.5(-115)",
-            "draftkings:-16.5(-114)",
-            "betmgm:-15.5(-115)",
-            "bovada:-15.5(-115)"
+            "fanduel:-32.5(1200)",
+            "espnbet:-31.5(-700)",
+            "draftkings:-32.5(1880)",
+            "betmgm:-32.5(700)"
           ]
         }
       },
       "total": {
-        "consensus": 58.5,
+        "consensus": 52.5,
         "best_over": {
-          "point": 58.5,
+          "point": 52.5,
           "book": "fanduel",
-          "price": -110
+          "price": 1100
         },
         "best_under": {
-          "point": 59.5,
-          "book": "betmgm",
-          "price": -105
+          "point": 52.5,
+          "book": "fanduel",
+          "price": -4500
         },
         "all": [
-          "fanduel:58.5",
-          "espnbet:58.5",
-          "draftkings:58.5",
-          "betmgm:59.5",
-          "bovada:58.5"
+          "fanduel:52.5",
+          "espnbet:52.5",
+          "draftkings:52.5",
+          "betmgm:52.5"
         ]
       },
-      "moneyline": {
-        "Purdue Boilermakers": {
-          "consensus": 750,
-          "best_price": 800,
-          "best_book": "espnbet"
-        },
-        "Wisconsin Badgers": {
-          "consensus": -1600,
-          "best_price": -1200,
-          "best_book": "betmgm"
-        }
-      }
+      "moneyline": {}
     },
     {
       "id": "b40838a45d9aeb25fb42668402caae13",
@@ -344,62 +244,50 @@
       "books_counted": 5,
       "spreads": {
         "North Texas Mean Green": {
-          "consensus": -9.5,
-          "best_point": -8.5,
-          "best_book": "fanduel",
-          "best_price": -114,
+          "consensus": 3.5,
+          "best_point": 3.5,
+          "best_book": "draftkings",
+          "best_price": 222,
           "all": [
-            "draftkings:-9.5(-113)",
-            "fanduel:-8.5(-114)",
-            "espnbet:-9.5(-120)",
-            "betmgm:-10.5(-105)",
-            "bovada:-9.5(-115)"
+            "draftkings:+3.5(222)"
           ]
         },
         "Tulane Green Wave": {
-          "consensus": 9.5,
-          "best_point": 10.5,
-          "best_book": "betmgm",
-          "best_price": -125,
+          "consensus": -3.5,
+          "best_point": -3.5,
+          "best_book": "draftkings",
+          "best_price": -311,
           "all": [
-            "draftkings:+9.5(-117)",
-            "fanduel:+8.5(-114)",
-            "espnbet:+9.5(-110)",
-            "betmgm:+10.5(-125)",
-            "bovada:+9.5(-115)"
+            "draftkings:-3.5(-311)"
           ]
         }
       },
       "total": {
-        "consensus": 59.5,
+        "consensus": 52.5,
         "best_over": {
-          "point": 58.5,
-          "book": "fanduel",
-          "price": -136
+          "point": 52.5,
+          "book": "draftkings",
+          "price": 214
         },
         "best_under": {
-          "point": 60.5,
-          "book": "bovada",
-          "price": -115
+          "point": 52.5,
+          "book": "draftkings",
+          "price": -298
         },
         "all": [
-          "draftkings:59.5",
-          "fanduel:58.5",
-          "espnbet:59.5",
-          "betmgm:58.5",
-          "bovada:60.5"
+          "draftkings:52.5"
         ]
       },
       "moneyline": {
         "North Texas Mean Green": {
-          "consensus": -500,
-          "best_price": -435,
-          "best_book": "bovada"
+          "consensus": 380,
+          "best_price": 1000,
+          "best_book": "fanduel"
         },
         "Tulane Green Wave": {
-          "consensus": 340,
-          "best_price": 375,
-          "best_book": "betmgm"
+          "consensus": -650,
+          "best_price": -145,
+          "best_book": "bovada"
         }
       }
     },
@@ -411,62 +299,62 @@
       "books_counted": 5,
       "spreads": {
         "Boston College Eagles": {
-          "consensus": -3.5,
-          "best_point": -2.5,
-          "best_book": "draftkings",
-          "best_price": -132,
+          "consensus": -8.5,
+          "best_point": -5.5,
+          "best_book": "bovada",
+          "best_price": 120,
           "all": [
-            "fanduel:-3.5(-106)",
-            "draftkings:-2.5(-132)",
-            "espnbet:-3.5(-110)",
-            "betmgm:-3.5(105)",
-            "bovada:-3.5(-110)"
+            "fanduel:-5.5(-114)",
+            "draftkings:-11.5(-128)",
+            "espnbet:-8.5(-115)",
+            "betmgm:-11.5(-325)",
+            "bovada:-5.5(120)"
           ]
         },
         "Syracuse Orange": {
-          "consensus": 3.5,
-          "best_point": 3.5,
-          "best_book": "espnbet",
-          "best_price": -120,
+          "consensus": 8.5,
+          "best_point": 11.5,
+          "best_book": "betmgm",
+          "best_price": 230,
           "all": [
-            "fanduel:+3.5(-125)",
-            "draftkings:+2.5(-101)",
-            "espnbet:+3.5(-120)",
-            "betmgm:+3.5(-130)",
-            "bovada:+3.5(-120)"
+            "fanduel:+5.5(-114)",
+            "draftkings:+11.5(-104)",
+            "espnbet:+8.5(-115)",
+            "betmgm:+11.5(230)",
+            "bovada:+5.5(-155)"
           ]
         }
       },
       "total": {
-        "consensus": 50.5,
+        "consensus": 49.5,
         "best_over": {
-          "point": 48.5,
-          "book": "fanduel",
-          "price": -122
+          "point": 42.5,
+          "book": "betmgm",
+          "price": -105
         },
         "best_under": {
-          "point": 50.5,
-          "book": "draftkings",
-          "price": -122
+          "point": 49.5,
+          "book": "fanduel",
+          "price": -220
         },
         "all": [
-          "fanduel:48.5",
-          "draftkings:50.5",
-          "espnbet:50.5",
-          "betmgm:50.5",
+          "fanduel:49.5",
+          "draftkings:48.5",
+          "espnbet:49.5",
+          "betmgm:42.5",
           "bovada:49.5"
         ]
       },
       "moneyline": {
         "Boston College Eagles": {
-          "consensus": -160,
-          "best_price": -154,
-          "best_book": "draftkings"
+          "consensus": -2500,
+          "best_price": -700,
+          "best_book": "bovada"
         },
         "Syracuse Orange": {
-          "consensus": 125,
-          "best_price": 140,
-          "best_book": "bovada"
+          "consensus": 1040,
+          "best_price": 3300,
+          "best_book": "betmgm"
         }
       }
     },
@@ -475,65 +363,53 @@
       "kickoff": "2026-11-21T17:05:00Z",
       "away": "Colorado Buffaloes",
       "home": "Cincinnati Bearcats",
-      "books_counted": 5,
+      "books_counted": 4,
       "spreads": {
         "Cincinnati Bearcats": {
-          "consensus": -7.5,
-          "best_point": -7.5,
+          "consensus": -6.5,
+          "best_point": -6.5,
           "best_book": "draftkings",
-          "best_price": -105,
+          "best_price": -10000,
           "all": [
-            "fanduel:-7.5(-112)",
-            "draftkings:-7.5(-105)",
-            "espnbet:-7.5(-110)",
-            "betmgm:-7.5(-105)",
-            "bovada:-8(-115)"
+            "draftkings:-6.5(-10000)"
           ]
         },
         "Colorado Buffaloes": {
-          "consensus": 7.5,
-          "best_point": 8,
-          "best_book": "bovada",
-          "best_price": -115,
+          "consensus": 6.5,
+          "best_point": 6.5,
+          "best_book": "draftkings",
+          "best_price": 1760,
           "all": [
-            "fanduel:+7.5(-118)",
-            "draftkings:+7.5(-127)",
-            "espnbet:+7.5(-120)",
-            "betmgm:+7.5(-125)",
-            "bovada:+8(-115)"
+            "draftkings:+6.5(1760)"
           ]
         }
       },
       "total": {
-        "consensus": 55,
+        "consensus": 63.5,
         "best_over": {
-          "point": 54.5,
-          "book": "fanduel",
-          "price": -112
+          "point": 63.5,
+          "book": "draftkings",
+          "price": 1440
         },
         "best_under": {
-          "point": 55.5,
-          "book": "espnbet",
-          "price": -120
+          "point": 63.5,
+          "book": "draftkings",
+          "price": -7700
         },
         "all": [
-          "fanduel:54.5",
-          "draftkings:54.5",
-          "espnbet:55.5",
-          "betmgm:55.5",
-          "bovada:55"
+          "draftkings:63.5"
         ]
       },
       "moneyline": {
         "Cincinnati Bearcats": {
-          "consensus": -386,
-          "best_price": -375,
-          "best_book": "betmgm"
+          "consensus": -3000,
+          "best_price": -3000,
+          "best_book": "espnbet"
         },
         "Colorado Buffaloes": {
-          "consensus": 270,
-          "best_price": 300,
-          "best_book": "fanduel"
+          "consensus": 1200,
+          "best_price": 1400,
+          "best_book": "betmgm"
         }
       }
     },
@@ -542,65 +418,53 @@
       "kickoff": "2026-11-21T17:05:00Z",
       "away": "Vanderbilt Commodores",
       "home": "Florida Gators",
-      "books_counted": 5,
+      "books_counted": 4,
       "spreads": {
         "Florida Gators": {
-          "consensus": -8.5,
-          "best_point": -7.5,
-          "best_book": "bovada",
-          "best_price": -130,
+          "consensus": -6.5,
+          "best_point": -6.5,
+          "best_book": "draftkings",
+          "best_price": -178,
           "all": [
-            "fanduel:-7.5(-136)",
-            "espnbet:-8.5(-120)",
-            "draftkings:-9.5(-113)",
-            "betmgm:-8.5(-115)",
-            "bovada:-7.5(-130)"
+            "draftkings:-6.5(-178)"
           ]
         },
         "Vanderbilt Commodores": {
-          "consensus": 8.5,
-          "best_point": 9.5,
+          "consensus": 6.5,
+          "best_point": 6.5,
           "best_book": "draftkings",
-          "best_price": -117,
+          "best_price": 131,
           "all": [
-            "fanduel:+7.5(102)",
-            "espnbet:+8.5(-110)",
-            "draftkings:+9.5(-117)",
-            "betmgm:+8.5(-115)",
-            "bovada:+7.5(100)"
+            "draftkings:+6.5(131)"
           ]
         }
       },
       "total": {
-        "consensus": 49.5,
+        "consensus": 61.5,
         "best_over": {
-          "point": 49.5,
-          "book": "fanduel",
-          "price": -108
+          "point": 61.5,
+          "book": "draftkings",
+          "price": -106
         },
         "best_under": {
-          "point": 49.5,
-          "book": "fanduel",
-          "price": -122
+          "point": 61.5,
+          "book": "draftkings",
+          "price": -126
         },
         "all": [
-          "fanduel:49.5",
-          "espnbet:49.5",
-          "draftkings:49.5",
-          "betmgm:49.5",
-          "bovada:49.5"
+          "draftkings:61.5"
         ]
       },
       "moneyline": {
         "Florida Gators": {
-          "consensus": -525,
-          "best_price": -460,
-          "best_book": "fanduel"
+          "consensus": -760,
+          "best_price": -625,
+          "best_book": "betmgm"
         },
         "Vanderbilt Commodores": {
-          "consensus": 360,
-          "best_price": 375,
-          "best_book": "betmgm"
+          "consensus": 470,
+          "best_price": 500,
+          "best_book": "espnbet"
         }
       }
     },
@@ -612,62 +476,53 @@
       "books_counted": 5,
       "spreads": {
         "BYU Cougars": {
-          "consensus": -3.5,
-          "best_point": -3.5,
-          "best_book": "fanduel",
-          "best_price": -102,
+          "consensus": -1.5,
+          "best_point": -1.5,
+          "best_book": "draftkings",
+          "best_price": -113,
           "all": [
-            "draftkings:-3.5(-115)",
-            "fanduel:-3.5(-102)",
-            "espnbet:-3.5(-110)",
-            "betmgm:-3.5(-110)",
-            "bovada:-3.5(-115)"
+            "draftkings:-1.5(-113)",
+            "fanduel:-1.5(-132)"
           ]
         },
         "Kansas Jayhawks": {
-          "consensus": 3.5,
-          "best_point": 3.5,
-          "best_book": "bovada",
-          "best_price": -115,
+          "consensus": 1.5,
+          "best_point": 1.5,
+          "best_book": "fanduel",
+          "best_price": 100,
           "all": [
-            "draftkings:+3.5(-116)",
-            "fanduel:+3.5(-130)",
-            "espnbet:+3.5(-120)",
-            "betmgm:+3.5(-118)",
-            "bovada:+3.5(-115)"
+            "draftkings:+1.5(-118)",
+            "fanduel:+1.5(100)"
           ]
         }
       },
       "total": {
-        "consensus": 33.5,
+        "consensus": 40,
         "best_over": {
-          "point": 33.5,
-          "book": "draftkings",
-          "price": -106
+          "point": 38.5,
+          "book": "fanduel",
+          "price": 108
         },
         "best_under": {
-          "point": 34,
-          "book": "bovada",
-          "price": -115
+          "point": 41.5,
+          "book": "draftkings",
+          "price": -143
         },
         "all": [
-          "draftkings:33.5",
-          "fanduel:33.5",
-          "espnbet:33.5",
-          "betmgm:33.5",
-          "bovada:34"
+          "draftkings:41.5",
+          "fanduel:38.5"
         ]
       },
       "moneyline": {
         "BYU Cougars": {
-          "consensus": -200,
-          "best_price": -180,
-          "best_book": "fanduel"
+          "consensus": -136,
+          "best_price": -130,
+          "best_book": "betmgm"
         },
         "Kansas Jayhawks": {
-          "consensus": 150,
-          "best_price": 160,
-          "best_book": "betmgm"
+          "consensus": 106,
+          "best_price": 115,
+          "best_book": "bovada"
         }
       }
     },
@@ -676,53 +531,50 @@
       "kickoff": "2026-11-21T17:10:00Z",
       "away": "Wake Forest Demon Deacons",
       "home": "Georgia Tech Yellow Jackets",
-      "books_counted": 5,
+      "books_counted": 4,
       "spreads": {
         "Georgia Tech Yellow Jackets": {
-          "consensus": 42.5,
-          "best_point": 42.5,
-          "best_book": "betmgm",
-          "best_price": -105,
+          "consensus": 22,
+          "best_point": 25.5,
+          "best_book": "espnbet",
+          "best_price": 110,
           "all": [
-            "fanduel:+42.5(-118)",
-            "draftkings:+42.5(-117)",
-            "betmgm:+42.5(-105)",
-            "espnbet:+39.5(-120)",
-            "bovada:+42.5(-115)"
+            "fanduel:+21.5(-128)",
+            "draftkings:+21.5(-109)",
+            "betmgm:+22.5(-118)",
+            "espnbet:+25.5(110)"
           ]
         },
         "Wake Forest Demon Deacons": {
-          "consensus": -42.5,
-          "best_point": -39.5,
-          "best_book": "espnbet",
-          "best_price": -110,
+          "consensus": -22,
+          "best_point": -21.5,
+          "best_book": "fanduel",
+          "best_price": -104,
           "all": [
-            "fanduel:-42.5(-112)",
-            "draftkings:-42.5(-114)",
-            "betmgm:-42.5(-125)",
-            "espnbet:-39.5(-110)",
-            "bovada:-42.5(-115)"
+            "fanduel:-21.5(-104)",
+            "draftkings:-21.5(-122)",
+            "betmgm:-22.5(-112)",
+            "espnbet:-25.5(-140)"
           ]
         }
       },
       "total": {
-        "consensus": 63.5,
+        "consensus": 78.5,
         "best_over": {
-          "point": 63.5,
+          "point": 78.5,
           "book": "fanduel",
-          "price": -114
+          "price": -205
         },
         "best_under": {
-          "point": 64.5,
-          "book": "draftkings",
-          "price": -113
+          "point": 78.5,
+          "book": "fanduel",
+          "price": 152
         },
         "all": [
-          "fanduel:63.5",
-          "draftkings:64.5",
-          "betmgm:64.5",
-          "espnbet:63.5",
-          "bovada:63.5"
+          "fanduel:78.5",
+          "draftkings:78.5",
+          "betmgm:78.5",
+          "espnbet:78.5"
         ]
       },
       "moneyline": {}
@@ -735,62 +587,61 @@
       "books_counted": 5,
       "spreads": {
         "Nebraska Cornhuskers": {
-          "consensus": 1.5,
-          "best_point": 1.5,
-          "best_book": "draftkings",
-          "best_price": -117,
+          "consensus": -6.5,
+          "best_point": -6.5,
+          "best_book": "espnbet",
+          "best_price": -120,
           "all": [
-            "draftkings:+1.5(-117)",
-            "fanduel:-2.5(-112)",
-            "betmgm:+1.5(-120)",
-            "espnbet:+1.5(-120)",
-            "bovada:-2(-115)"
+            "draftkings:-6.5(-123)",
+            "fanduel:-6.5(-130)",
+            "betmgm:-6.5(-125)",
+            "espnbet:-6.5(-120)",
+            "bovada:-6.5(-120)"
           ]
         },
         "Ohio State Buckeyes": {
-          "consensus": -1.5,
-          "best_point": 2.5,
+          "consensus": 6.5,
+          "best_point": 6.5,
           "best_book": "fanduel",
-          "best_price": -118,
+          "best_price": -102,
           "all": [
-            "draftkings:-1.5(-113)",
-            "fanduel:+2.5(-118)",
-            "betmgm:-1.5(-108)",
-            "espnbet:-1.5(-110)",
-            "bovada:+2(-115)"
+            "draftkings:+6.5(-108)",
+            "fanduel:+6.5(-102)",
+            "betmgm:+6.5(-105)",
+            "espnbet:+6.5(-110)",
+            "bovada:+6.5(-110)"
           ]
         }
       },
       "total": {
-        "consensus": 48.5,
+        "consensus": 58.5,
         "best_over": {
-          "point": 47.5,
+          "point": 58.5,
           "book": "draftkings",
-          "price": -122
+          "price": -150
         },
         "best_under": {
-          "point": 50.5,
-          "book": "fanduel",
-          "price": -108
+          "point": 58.5,
+          "book": "draftkings",
+          "price": 113
         },
         "all": [
-          "draftkings:47.5",
-          "fanduel:50.5",
-          "betmgm:48.5",
-          "espnbet:48.5",
-          "bovada:50.5"
+          "draftkings:58.5",
+          "fanduel:58.5",
+          "betmgm:58.5",
+          "espnbet:58.5"
         ]
       },
       "moneyline": {
         "Nebraska Cornhuskers": {
-          "consensus": -119,
-          "best_price": -104,
-          "best_book": "draftkings"
+          "consensus": -1200,
+          "best_price": -800,
+          "best_book": "bovada"
         },
         "Ohio State Buckeyes": {
-          "consensus": -9,
-          "best_price": 110,
-          "best_book": "bovada"
+          "consensus": 600,
+          "best_price": 725,
+          "best_book": "betmgm"
         }
       }
     },
@@ -802,131 +653,117 @@
       "books_counted": 5,
       "spreads": {
         "North Carolina Tar Heels": {
-          "consensus": 4.5,
-          "best_point": 6.5,
-          "best_book": "draftkings",
-          "best_price": -113,
+          "consensus": 23.5,
+          "best_point": 24,
+          "best_book": "bovada",
+          "best_price": -155,
           "all": [
-            "fanduel:+4.5(-112)",
-            "draftkings:+6.5(-113)",
-            "espnbet:+3.5(-115)",
-            "betmgm:+4.5(-118)",
-            "bovada:+4.5(-115)"
+            "fanduel:+23.5(110)",
+            "draftkings:+23.5(112)",
+            "espnbet:+23.5(125)",
+            "betmgm:+23.5(115)",
+            "bovada:+24(-155)"
           ]
         },
         "Virginia Cavaliers": {
-          "consensus": -4.5,
-          "best_point": -3.5,
-          "best_book": "espnbet",
-          "best_price": -115,
+          "consensus": -23.5,
+          "best_point": -23.5,
+          "best_book": "fanduel",
+          "best_price": -146,
           "all": [
-            "fanduel:-4.5(-118)",
-            "draftkings:-6.5(-117)",
-            "espnbet:-3.5(-115)",
-            "betmgm:-4.5(-110)",
-            "bovada:-4.5(-115)"
+            "fanduel:-23.5(-146)",
+            "draftkings:-23.5(-149)",
+            "espnbet:-23.5(-175)",
+            "betmgm:-23.5(-150)",
+            "bovada:-24(120)"
           ]
         }
       },
       "total": {
-        "consensus": 43.5,
+        "consensus": 50.5,
         "best_over": {
-          "point": 41.5,
-          "book": "espnbet",
-          "price": -115
+          "point": 50.5,
+          "book": "fanduel",
+          "price": -148
         },
         "best_under": {
-          "point": 43.5,
-          "book": "fanduel",
-          "price": -108
+          "point": 51.5,
+          "book": "espnbet",
+          "price": -180
         },
         "all": [
-          "fanduel:43.5",
-          "draftkings:43.5",
-          "espnbet:41.5",
-          "betmgm:43.5",
-          "bovada:43.5"
+          "fanduel:50.5",
+          "draftkings:50.5",
+          "espnbet:51.5",
+          "betmgm:50.5",
+          "bovada:50.5"
         ]
       },
-      "moneyline": {
-        "North Carolina Tar Heels": {
-          "consensus": 155,
-          "best_price": 179,
-          "best_book": "draftkings"
-        },
-        "Virginia Cavaliers": {
-          "consensus": -205,
-          "best_price": -165,
-          "best_book": "espnbet"
-        }
-      }
+      "moneyline": {}
     },
     {
       "id": "329bbea44b2c7efcbb9243e25099495e",
       "kickoff": "2026-11-21T18:05:00Z",
       "away": "Houston Cougars",
       "home": "West Virginia Mountaineers",
-      "books_counted": 6,
+      "books_counted": 5,
       "spreads": {
         "Houston Cougars": {
-          "consensus": -6.5,
-          "best_point": -6,
-          "best_book": "betmgm",
-          "best_price": -108,
-          "all": [
-            "fanduel:-6.5(-105)",
-            "espnbet:-6.5(-110)",
-            "betonlineag:-6.5(-107)",
-            "draftkings:-6.5(-108)",
-            "betmgm:-6(-108)",
-            "bovada:-6.5(-108)"
-          ]
-        },
-        "West Virginia Mountaineers": {
-          "consensus": 6.5,
-          "best_point": 6.5,
+          "consensus": 5.5,
+          "best_point": 5.5,
           "best_book": "espnbet",
           "best_price": -110,
           "all": [
-            "fanduel:+6.5(-115)",
-            "espnbet:+6.5(-110)",
-            "betonlineag:+6.5(-113)",
-            "draftkings:+6.5(-112)",
-            "betmgm:+6(-110)",
-            "bovada:+6.5(-112)"
+            "fanduel:+5.5(-122)",
+            "espnbet:+5.5(-110)",
+            "draftkings:+5.5(-117)",
+            "betmgm:+4.5(-110)",
+            "bovada:+5.5(-115)"
+          ]
+        },
+        "West Virginia Mountaineers": {
+          "consensus": -5.5,
+          "best_point": -4.5,
+          "best_book": "betmgm",
+          "best_price": -120,
+          "all": [
+            "fanduel:-5.5(-106)",
+            "espnbet:-5.5(-120)",
+            "draftkings:-5.5(-114)",
+            "betmgm:-4.5(-120)",
+            "bovada:-5.5(-115)"
           ]
         }
       },
       "total": {
-        "consensus": 71.5,
+        "consensus": 79.5,
         "best_over": {
-          "point": 71,
-          "book": "betonlineag",
-          "price": -115
+          "point": 79.5,
+          "book": "fanduel",
+          "price": -128
         },
         "best_under": {
-          "point": 71.5,
-          "book": "fanduel",
-          "price": -110
+          "point": 82,
+          "book": "bovada",
+          "price": -120
         },
         "all": [
-          "fanduel:71.5",
-          "espnbet:71.5",
-          "betonlineag:71",
-          "draftkings:71.5",
-          "betmgm:71.5",
-          "bovada:71.5"
+          "fanduel:79.5",
+          "espnbet:79.5",
+          "draftkings:80.5",
+          "betmgm:79.5",
+          "bovada:82"
         ]
       },
       "moneyline": {
         "Houston Cougars": {
-          "consensus": -236.5,
-          "best_price": -230,
+          "consensus": 215.5,
+          "best_price": 230,
           "best_book": "espnbet"
         },
         "West Virginia Mountaineers": {
-          "consensus": 195,
-          "best_price": 205,
+          "consensus": -291,
+          "best_price": -260,
           "best_book": "bovada"
         }
       }
@@ -936,34 +773,88 @@
       "kickoff": "2026-11-21T18:05:00Z",
       "away": "Western Kentucky Hilltoppers",
       "home": "Liberty Flames",
-      "books_counted": 6,
+      "books_counted": 5,
       "spreads": {
         "Liberty Flames": {
-          "consensus": -18,
-          "best_point": -17.5,
-          "best_book": "fanduel",
-          "best_price": -110,
+          "consensus": -38.5,
+          "best_point": -38.5,
+          "best_book": "draftkings",
+          "best_price": -106,
           "all": [
-            "fanduel:-17.5(-110)",
-            "draftkings:-18.5(-105)",
-            "betonlineag:-18(-113)",
-            "espnbet:-17.5(-115)",
-            "betmgm:-18(-110)",
-            "bovada:-18(-110)"
+            "fanduel:-38.5(-118)",
+            "draftkings:-38.5(-106)",
+            "espnbet:-39.5(-110)",
+            "betmgm:-39.5(-110)",
+            "bovada:-38.5(-115)"
           ]
         },
         "Western Kentucky Hilltoppers": {
-          "consensus": 18,
-          "best_point": 18.5,
-          "best_book": "draftkings",
-          "best_price": -115,
+          "consensus": 38.5,
+          "best_point": 39.5,
+          "best_book": "espnbet",
+          "best_price": -120,
           "all": [
-            "fanduel:+17.5(-110)",
-            "draftkings:+18.5(-115)",
-            "betonlineag:+18(-107)",
-            "espnbet:+17.5(-105)",
-            "betmgm:+18(-108)",
-            "bovada:+18(-110)"
+            "fanduel:+38.5(-112)",
+            "draftkings:+38.5(-126)",
+            "espnbet:+39.5(-120)",
+            "betmgm:+39.5(-120)",
+            "bovada:+38.5(-115)"
+          ]
+        }
+      },
+      "total": {
+        "consensus": 49.5,
+        "best_over": {
+          "point": 48.5,
+          "book": "draftkings",
+          "price": -114
+        },
+        "best_under": {
+          "point": 49.5,
+          "book": "fanduel",
+          "price": -160
+        },
+        "all": [
+          "fanduel:49.5",
+          "draftkings:48.5",
+          "espnbet:49.5",
+          "betmgm:49.5",
+          "bovada:49.5"
+        ]
+      },
+      "moneyline": {}
+    },
+    {
+      "id": "e4bb95111547a00a8c70a0459ffbd861",
+      "kickoff": "2026-11-21T18:05:00Z",
+      "away": "Tennessee Tech Golden Eagles",
+      "home": "Mississippi State Bulldogs",
+      "books_counted": 5,
+      "spreads": {
+        "Mississippi State Bulldogs": {
+          "consensus": -23.5,
+          "best_point": -23.5,
+          "best_book": "betmgm",
+          "best_price": -120,
+          "all": [
+            "fanduel:-23.5(-130)",
+            "draftkings:-23.5(-146)",
+            "espnbet:-23.5(-130)",
+            "betmgm:-23.5(-120)",
+            "bovada:-23.5(-125)"
+          ]
+        },
+        "Tennessee Tech Golden Eagles": {
+          "consensus": 23.5,
+          "best_point": 23.5,
+          "best_book": "draftkings",
+          "best_price": 109,
+          "all": [
+            "fanduel:+23.5(-102)",
+            "draftkings:+23.5(109)",
+            "espnbet:+23.5(100)",
+            "betmgm:+23.5(-110)",
+            "bovada:+23.5(-105)"
           ]
         }
       },
@@ -972,237 +863,98 @@
         "best_over": {
           "point": 53.5,
           "book": "fanduel",
-          "price": -110
+          "price": -132
         },
         "best_under": {
-          "point": 54,
-          "book": "betonlineag",
-          "price": -110
+          "point": 54.5,
+          "book": "draftkings",
+          "price": -125
         },
         "all": [
           "fanduel:53.5",
-          "draftkings:53.5",
-          "betonlineag:54",
+          "draftkings:54.5",
           "espnbet:53.5",
           "betmgm:53.5",
           "bovada:53.5"
         ]
       },
       "moneyline": {
-        "Liberty Flames": {
-          "consensus": -1000,
-          "best_price": -950,
-          "best_book": "bovada"
-        },
-        "Western Kentucky Hilltoppers": {
-          "consensus": 680,
-          "best_price": 732,
-          "best_book": "betonlineag"
-        }
-      }
-    },
-    {
-      "id": "e4bb95111547a00a8c70a0459ffbd861",
-      "kickoff": "2026-11-21T18:05:00Z",
-      "away": "Tennessee Tech Golden Eagles",
-      "home": "Mississippi State Bulldogs",
-      "books_counted": 6,
-      "spreads": {
         "Mississippi State Bulldogs": {
-          "consensus": -29.5,
-          "best_point": -28.5,
-          "best_book": "espnbet",
-          "best_price": -110,
-          "all": [
-            "fanduel:-29.5(-110)",
-            "draftkings:-29.5(-105)",
-            "espnbet:-28.5(-110)",
-            "betonlineag:-29.5(-110)",
-            "betmgm:-29(-110)",
-            "bovada:-29.5(-103)"
-          ]
+          "consensus": -50000,
+          "best_price": -50000,
+          "best_book": "espnbet"
         },
         "Tennessee Tech Golden Eagles": {
-          "consensus": 29.5,
-          "best_point": 29.5,
-          "best_book": "fanduel",
-          "best_price": -110,
-          "all": [
-            "fanduel:+29.5(-110)",
-            "draftkings:+29.5(-115)",
-            "espnbet:+28.5(-110)",
-            "betonlineag:+29.5(-110)",
-            "betmgm:+29(-108)",
-            "bovada:+29.5(-117)"
-          ]
-        }
-      },
-      "total": {
-        "consensus": 57.5,
-        "best_over": {
-          "point": 57.5,
-          "book": "fanduel",
-          "price": -114
-        },
-        "best_under": {
-          "point": 58.5,
-          "book": "bovada",
-          "price": -120
-        },
-        "all": [
-          "fanduel:57.5",
-          "draftkings:57.5",
-          "espnbet:57.5",
-          "betonlineag:57.5",
-          "betmgm:57.5",
-          "bovada:58.5"
-        ]
-      },
-      "moneyline": {
-        "Mississippi State Bulldogs": {
-          "consensus": -3000,
-          "best_price": -2400,
-          "best_book": "draftkings"
-        },
-        "Tennessee Tech Golden Eagles": {
-          "consensus": 1240,
-          "best_price": 2200,
-          "best_book": "betmgm"
+          "consensus": 3000,
+          "best_price": 3000,
+          "best_book": "espnbet"
         }
       }
-    },
-    {
-      "id": "f45e59db6a335d4ffd3741f83a45327a",
-      "kickoff": "2026-11-21T19:00:00Z",
-      "away": "Chattanooga Mocs",
-      "home": "Alabama Crimson Tide",
-      "books_counted": 7,
-      "spreads": {
-        "Alabama Crimson Tide": {
-          "consensus": -48.5,
-          "best_point": -47.5,
-          "best_book": "betrivers",
-          "best_price": -112,
-          "all": [
-            "fanduel:-48.5(-110)",
-            "betrivers:-47.5(-112)",
-            "draftkings:-48.5(-112)",
-            "betonlineag:-48.5(-115)",
-            "espnbet:-48.5(-105)",
-            "betmgm:-48.5(-112)",
-            "bovada:-48.5(-110)"
-          ]
-        },
-        "Chattanooga Mocs": {
-          "consensus": 48.5,
-          "best_point": 48.5,
-          "best_book": "betonlineag",
-          "best_price": -105,
-          "all": [
-            "fanduel:+48.5(-110)",
-            "betrivers:+47.5(-112)",
-            "draftkings:+48.5(-108)",
-            "betonlineag:+48.5(-105)",
-            "espnbet:+48.5(-115)",
-            "betmgm:+48.5(-105)",
-            "bovada:+48.5(-110)"
-          ]
-        }
-      },
-      "total": {
-        "consensus": 56.5,
-        "best_over": {
-          "point": 56.5,
-          "book": "fanduel",
-          "price": -110
-        },
-        "best_under": {
-          "point": 57.5,
-          "book": "betrivers",
-          "price": -109
-        },
-        "all": [
-          "fanduel:56.5",
-          "betrivers:57.5",
-          "draftkings:56.5",
-          "betonlineag:56.5",
-          "espnbet:56.5",
-          "betmgm:57.5",
-          "bovada:57.5"
-        ]
-      },
-      "moneyline": {}
     },
     {
       "id": "ba44f7b0a5535ae2369e8ea165fb287f",
       "kickoff": "2026-11-21T19:00:00Z",
       "away": "Charlotte 49ers",
       "home": "Tulsa Golden Hurricane",
-      "books_counted": 7,
+      "books_counted": 5,
       "spreads": {
         "Charlotte 49ers": {
-          "consensus": 22.5,
-          "best_point": 23,
-          "best_book": "betonlineag",
-          "best_price": -110,
+          "consensus": 11.5,
+          "best_point": 12.5,
+          "best_book": "bovada",
+          "best_price": -115,
           "all": [
-            "fanduel:+22.5(-110)",
-            "draftkings:+22.5(-110)",
-            "betonlineag:+23(-110)",
-            "espnbet:+22.5(-110)",
-            "betmgm:+23(-110)",
-            "betrivers:+23(-113)",
-            "bovada:+22.5(-110)"
+            "fanduel:+10.5(102)",
+            "draftkings:+10.5(-119)",
+            "espnbet:+11.5(-120)",
+            "betmgm:+11.5(-120)",
+            "bovada:+12.5(-115)"
           ]
         },
         "Tulsa Golden Hurricane": {
-          "consensus": -22.5,
-          "best_point": -22.5,
-          "best_book": "fanduel",
-          "best_price": -110,
+          "consensus": -11.5,
+          "best_point": -10.5,
+          "best_book": "draftkings",
+          "best_price": -112,
           "all": [
-            "fanduel:-22.5(-110)",
-            "draftkings:-22.5(-110)",
-            "betonlineag:-23(-110)",
-            "espnbet:-22.5(-110)",
-            "betmgm:-23(-108)",
-            "betrivers:-23(-110)",
-            "bovada:-22.5(-110)"
+            "fanduel:-10.5(-136)",
+            "draftkings:-10.5(-112)",
+            "espnbet:-11.5(-110)",
+            "betmgm:-11.5(-108)",
+            "bovada:-12.5(-115)"
           ]
         }
       },
       "total": {
-        "consensus": 51.5,
+        "consensus": 41.5,
         "best_over": {
-          "point": 51.5,
-          "book": "fanduel",
-          "price": -112
+          "point": 40.5,
+          "book": "draftkings",
+          "price": -130
         },
         "best_under": {
-          "point": 52,
-          "book": "betonlineag",
-          "price": -115
+          "point": 42.5,
+          "book": "fanduel",
+          "price": -130
         },
         "all": [
-          "fanduel:51.5",
-          "draftkings:51.5",
-          "betonlineag:52",
-          "espnbet:51.5",
-          "betmgm:51.5",
-          "betrivers:51.5",
-          "bovada:51.5"
+          "fanduel:42.5",
+          "draftkings:40.5",
+          "espnbet:41.5",
+          "betmgm:41.5",
+          "bovada:41.5"
         ]
       },
       "moneyline": {
         "Charlotte 49ers": {
-          "consensus": 1100,
-          "best_price": 1250,
-          "best_book": "betmgm"
+          "consensus": 600,
+          "best_price": 650,
+          "best_book": "bovada"
         },
         "Tulsa Golden Hurricane": {
-          "consensus": -2100,
-          "best_price": -1900,
-          "best_book": "bovada"
+          "consensus": -1100,
+          "best_price": -800,
+          "best_book": "draftkings"
         }
       }
     },
@@ -1211,71 +963,65 @@
       "kickoff": "2026-11-21T19:00:00Z",
       "away": "Missouri State Bears",
       "home": "Jacksonville State Gamecocks",
-      "books_counted": 7,
+      "books_counted": 5,
       "spreads": {
         "Jacksonville State Gamecocks": {
-          "consensus": -11.5,
-          "best_point": -10.5,
-          "best_book": "betrivers",
-          "best_price": -110,
+          "consensus": 2.5,
+          "best_point": 3.5,
+          "best_book": "betmgm",
+          "best_price": -140,
           "all": [
-            "fanduel:-10.5(-115)",
-            "draftkings:-11.5(-108)",
-            "betonlineag:-10.5(-120)",
-            "espnbet:-11.5(-110)",
-            "betrivers:-10.5(-110)",
-            "betmgm:-11.5(-108)",
-            "bovada:-11.5(-108)"
+            "fanduel:+2.5(100)",
+            "draftkings:+2.5(-104)",
+            "espnbet:+2.5(100)",
+            "betmgm:+3.5(-140)",
+            "bovada:+2.5(-105)"
           ]
         },
         "Missouri State Bears": {
-          "consensus": 11.5,
-          "best_point": 11.5,
-          "best_book": "espnbet",
-          "best_price": -110,
+          "consensus": -2.5,
+          "best_point": -2.5,
+          "best_book": "bovada",
+          "best_price": -125,
           "all": [
-            "fanduel:+10.5(-105)",
-            "draftkings:+11.5(-112)",
-            "betonlineag:+10.5(100)",
-            "espnbet:+11.5(-110)",
-            "betrivers:+10.5(-113)",
-            "betmgm:+11.5(-110)",
-            "bovada:+11.5(-112)"
+            "fanduel:-2.5(-132)",
+            "draftkings:-2.5(-128)",
+            "espnbet:-2.5(-130)",
+            "betmgm:-3.5(105)",
+            "bovada:-2.5(-125)"
           ]
         }
       },
       "total": {
-        "consensus": 52.5,
+        "consensus": 44.5,
         "best_over": {
-          "point": 52.5,
-          "book": "fanduel",
-          "price": -110
+          "point": 43.5,
+          "book": "bovada",
+          "price": -125
         },
         "best_under": {
-          "point": 53,
-          "book": "bovada",
-          "price": -112
+          "point": 44.5,
+          "book": "fanduel",
+          "price": -128
         },
         "all": [
-          "fanduel:52.5",
-          "draftkings:52.5",
-          "betonlineag:52.5",
-          "espnbet:52.5",
-          "betrivers:52.5",
-          "betmgm:52.5",
-          "bovada:53"
+          "fanduel:44.5",
+          "draftkings:44.5",
+          "espnbet:44.5",
+          "betmgm:44.5",
+          "bovada:43.5"
         ]
       },
       "moneyline": {
         "Jacksonville State Gamecocks": {
-          "consensus": -450,
-          "best_price": -435,
-          "best_book": "betonlineag"
+          "consensus": 118,
+          "best_price": 125,
+          "best_book": "betmgm"
         },
         "Missouri State Bears": {
-          "consensus": 340,
-          "best_price": 380,
-          "best_book": "espnbet"
+          "consensus": -150,
+          "best_price": -148,
+          "best_book": "fanduel"
         }
       }
     },
@@ -1284,144 +1030,185 @@
       "kickoff": "2026-11-21T19:00:00Z",
       "away": "Middle Tennessee Blue Raiders",
       "home": "Sam Houston State Bearkats",
-      "books_counted": 7,
+      "books_counted": 5,
       "spreads": {
         "Middle Tennessee Blue Raiders": {
-          "consensus": -6,
-          "best_point": -6,
+          "consensus": -19.5,
+          "best_point": -17.5,
           "best_book": "draftkings",
-          "best_price": -108,
+          "best_price": -118,
           "all": [
-            "fanduel:-6.5(-110)",
-            "betonlineag:-6(-110)",
-            "draftkings:-6(-108)",
-            "espnbet:-6.5(-105)",
-            "betrivers:-6.5(-109)",
-            "betmgm:-6(-110)",
-            "bovada:-6(-112)"
+            "fanduel:-20.5(-102)",
+            "draftkings:-17.5(-118)",
+            "espnbet:-19.5(-115)",
+            "betmgm:-17.5(-120)",
+            "bovada:-19.5(-115)"
           ]
         },
         "Sam Houston State Bearkats": {
-          "consensus": 6,
-          "best_point": 6.5,
+          "consensus": 19.5,
+          "best_point": 20.5,
           "best_book": "fanduel",
-          "best_price": -110,
+          "best_price": -130,
           "all": [
-            "fanduel:+6.5(-110)",
-            "betonlineag:+6(-110)",
-            "draftkings:+6(-112)",
-            "espnbet:+6.5(-115)",
-            "betrivers:+6.5(-114)",
-            "betmgm:+6(-108)",
-            "bovada:+6(-108)"
+            "fanduel:+20.5(-130)",
+            "draftkings:+17.5(-112)",
+            "espnbet:+19.5(-115)",
+            "betmgm:+17.5(-110)",
+            "bovada:+19.5(-115)"
           ]
         }
       },
       "total": {
-        "consensus": 47.5,
+        "consensus": 55.5,
         "best_over": {
-          "point": 47.5,
-          "book": "betonlineag",
-          "price": -105
+          "point": 54.5,
+          "book": "bovada",
+          "price": -125
         },
         "best_under": {
-          "point": 48.5,
+          "point": 55.5,
           "book": "fanduel",
-          "price": -115
+          "price": -130
         },
         "all": [
-          "fanduel:48.5",
-          "betonlineag:47.5",
-          "draftkings:47.5",
-          "espnbet:47.5",
-          "betrivers:48.5",
-          "betmgm:47.5",
-          "bovada:47.5"
+          "fanduel:55.5",
+          "draftkings:55.5",
+          "espnbet:55.5",
+          "betmgm:55.5",
+          "bovada:54.5"
         ]
       },
       "moneyline": {
         "Middle Tennessee Blue Raiders": {
-          "consensus": -225,
-          "best_price": -225,
-          "best_book": "fanduel"
+          "consensus": -3500,
+          "best_price": -3000,
+          "best_book": "betmgm"
         },
         "Sam Houston State Bearkats": {
-          "consensus": 189,
-          "best_price": 205,
-          "best_book": "betrivers"
+          "consensus": 1110,
+          "best_price": 1350,
+          "best_book": "betmgm"
         }
       }
+    },
+    {
+      "id": "f45e59db6a335d4ffd3741f83a45327a",
+      "kickoff": "2026-11-21T19:02:24Z",
+      "away": "Chattanooga Mocs",
+      "home": "Alabama Crimson Tide",
+      "books_counted": 4,
+      "spreads": {
+        "Alabama Crimson Tide": {
+          "consensus": -47,
+          "best_point": -46.5,
+          "best_book": "fanduel",
+          "best_price": -136,
+          "all": [
+            "fanduel:-46.5(-136)",
+            "draftkings:-47.5(-111)",
+            "espnbet:-47.5(-115)",
+            "betmgm:-46.5(-145)"
+          ]
+        },
+        "Chattanooga Mocs": {
+          "consensus": 47,
+          "best_point": 47.5,
+          "best_book": "espnbet",
+          "best_price": -115,
+          "all": [
+            "fanduel:+46.5(102)",
+            "draftkings:+47.5(-119)",
+            "espnbet:+47.5(-115)",
+            "betmgm:+46.5(110)"
+          ]
+        }
+      },
+      "total": {
+        "consensus": 53,
+        "best_over": {
+          "point": 50.5,
+          "book": "fanduel",
+          "price": -130
+        },
+        "best_under": {
+          "point": 53.5,
+          "book": "espnbet",
+          "price": -120
+        },
+        "all": [
+          "fanduel:50.5",
+          "draftkings:52.5",
+          "espnbet:53.5",
+          "betmgm:53.5"
+        ]
+      },
+      "moneyline": {}
     },
     {
       "id": "bd9d4f32b0b91c0140a3dd9574f8ae13",
       "kickoff": "2026-11-21T19:30:00Z",
       "away": "UL Monroe Warhawks",
       "home": "Appalachian State Mountaineers",
-      "books_counted": 7,
+      "books_counted": 5,
       "spreads": {
         "Appalachian State Mountaineers": {
-          "consensus": -14,
-          "best_point": -13.5,
-          "best_book": "espnbet",
-          "best_price": -115,
+          "consensus": -5.5,
+          "best_point": -4.5,
+          "best_book": "betmgm",
+          "best_price": -110,
           "all": [
-            "fanduel:-13.5(-116)",
-            "draftkings:-14(-108)",
-            "betonlineag:-14(-111)",
-            "espnbet:-13.5(-115)",
-            "betrivers:-14(-110)",
-            "betmgm:-14(-108)",
-            "bovada:-14(-108)"
+            "fanduel:-4.5(-128)",
+            "draftkings:-6.5(-119)",
+            "espnbet:-5.5(-110)",
+            "betmgm:-4.5(-110)",
+            "bovada:-5.5(-115)"
           ]
         },
         "UL Monroe Warhawks": {
-          "consensus": 14,
-          "best_point": 14,
-          "best_book": "betonlineag",
-          "best_price": -109,
+          "consensus": 5.5,
+          "best_point": 6.5,
+          "best_book": "draftkings",
+          "best_price": -112,
           "all": [
-            "fanduel:+13.5(-104)",
-            "draftkings:+14(-112)",
-            "betonlineag:+14(-109)",
-            "espnbet:+13.5(-105)",
-            "betrivers:+14(-113)",
-            "betmgm:+14(-112)",
-            "bovada:+14(-112)"
+            "fanduel:+4.5(-104)",
+            "draftkings:+6.5(-112)",
+            "espnbet:+5.5(-120)",
+            "betmgm:+4.5(-108)",
+            "bovada:+5.5(-115)"
           ]
         }
       },
       "total": {
-        "consensus": 50.5,
+        "consensus": 34.5,
         "best_over": {
-          "point": 49.5,
-          "book": "betrivers",
-          "price": -112
+          "point": 33.5,
+          "book": "bovada",
+          "price": -125
         },
         "best_under": {
-          "point": 50.5,
-          "book": "fanduel",
-          "price": -110
+          "point": 36.5,
+          "book": "draftkings",
+          "price": -121
         },
         "all": [
-          "fanduel:50.5",
-          "draftkings:50.5",
-          "betonlineag:50.5",
-          "espnbet:50.5",
-          "betrivers:49.5",
-          "betmgm:50.5",
-          "bovada:50"
+          "fanduel:34.5",
+          "draftkings:36.5",
+          "espnbet:36.5",
+          "betmgm:34.5",
+          "bovada:33.5"
         ]
       },
       "moneyline": {
         "Appalachian State Mountaineers": {
-          "consensus": -625,
-          "best_price": -600,
-          "best_book": "betonlineag"
+          "consensus": -275,
+          "best_price": -225,
+          "best_book": "betmgm"
         },
         "UL Monroe Warhawks": {
-          "consensus": 455,
-          "best_price": 500,
-          "best_book": "espnbet"
+          "consensus": 210,
+          "best_price": 237,
+          "best_book": "draftkings"
         }
       }
     },
@@ -1430,360 +1217,330 @@
       "kickoff": "2026-11-21T19:30:00Z",
       "away": "South Florida Bulls",
       "home": "Florida Atlantic Owls",
-      "books_counted": 7,
+      "books_counted": 5,
       "spreads": {
         "Florida Atlantic Owls": {
-          "consensus": 1.5,
-          "best_point": 1.5,
+          "consensus": -7.5,
+          "best_point": -6.5,
           "best_book": "espnbet",
-          "best_price": -105,
+          "best_price": -130,
           "all": [
-            "fanduel:+1.5(-110)",
-            "draftkings:+1.5(-108)",
-            "betonlineag:+1.5(-110)",
-            "espnbet:+1.5(-105)",
-            "betrivers:+1.5(-110)",
-            "betmgm:+1.5(-108)",
-            "bovada:+1.5(-110)"
+            "fanduel:-9.5(-118)",
+            "draftkings:-7.5(-119)",
+            "espnbet:-6.5(-130)",
+            "betmgm:-7.5(-102)",
+            "bovada:-9.5(-115)"
           ]
         },
         "South Florida Bulls": {
-          "consensus": -1.5,
-          "best_point": -1.5,
+          "consensus": 7.5,
+          "best_point": 9.5,
           "best_book": "fanduel",
-          "best_price": -110,
+          "best_price": -112,
           "all": [
-            "fanduel:-1.5(-110)",
-            "draftkings:-1.5(-112)",
-            "betonlineag:-1.5(-110)",
-            "espnbet:-1.5(-115)",
-            "betrivers:-1.5(-113)",
-            "betmgm:-1.5(-110)",
-            "bovada:-1.5(-110)"
+            "fanduel:+9.5(-112)",
+            "draftkings:+7.5(-112)",
+            "espnbet:+6.5(100)",
+            "betmgm:+7.5(-130)",
+            "bovada:+9.5(-115)"
           ]
         }
       },
       "total": {
-        "consensus": 64,
+        "consensus": 55.5,
         "best_over": {
-          "point": 63.5,
-          "book": "fanduel",
-          "price": -110
+          "point": 54.5,
+          "book": "espnbet",
+          "price": -120
         },
         "best_under": {
-          "point": 64.5,
+          "point": 56.5,
           "book": "draftkings",
-          "price": -112
+          "price": -115
         },
         "all": [
-          "fanduel:63.5",
-          "draftkings:64.5",
-          "betonlineag:63.5",
-          "espnbet:63.5",
-          "betrivers:64.5",
-          "betmgm:64.5",
-          "bovada:64"
+          "fanduel:55.5",
+          "draftkings:56.5",
+          "espnbet:54.5",
+          "betmgm:55.5",
+          "bovada:56.5"
         ]
       },
       "moneyline": {
         "Florida Atlantic Owls": {
-          "consensus": 100,
-          "best_price": 105,
-          "best_book": "espnbet"
+          "consensus": -392.5,
+          "best_price": -332,
+          "best_book": "draftkings"
         },
         "South Florida Bulls": {
-          "consensus": -118,
-          "best_price": -115,
-          "best_book": "fanduel"
+          "consensus": 280,
+          "best_price": 315,
+          "best_book": "bovada"
         }
       }
     },
     {
       "id": "725c6205de38f91b507a880c139eda54",
-      "kickoff": "2026-11-21T19:30:00Z",
+      "kickoff": "2026-11-21T19:35:22Z",
       "away": "Iowa Hawkeyes",
       "home": "Illinois Fighting Illini",
-      "books_counted": 7,
+      "books_counted": 5,
       "spreads": {
         "Illinois Fighting Illini": {
           "consensus": 9.5,
           "best_point": 9.5,
-          "best_book": "bovada",
-          "best_price": -108,
+          "best_book": "fanduel",
+          "best_price": -106,
           "all": [
-            "draftkings:+8.5(-110)",
-            "fanduel:+9.5(-112)",
-            "betrivers:+8.5(-110)",
-            "betonlineag:+9.5(-116)",
-            "espnbet:+9.5(-110)",
+            "draftkings:+9.5(-117)",
+            "fanduel:+9.5(-106)",
+            "espnbet:+6.5(-110)",
             "betmgm:+9.5(-110)",
-            "bovada:+9.5(-108)"
+            "bovada:+7(-105)"
           ]
         },
         "Iowa Hawkeyes": {
           "consensus": -9.5,
-          "best_point": -8.5,
-          "best_book": "draftkings",
-          "best_price": -110,
+          "best_point": -6.5,
+          "best_book": "espnbet",
+          "best_price": -120,
           "all": [
-            "draftkings:-8.5(-110)",
-            "fanduel:-9.5(-108)",
-            "betrivers:-8.5(-112)",
-            "betonlineag:-9.5(-104)",
-            "espnbet:-9.5(-110)",
-            "betmgm:-9.5(-108)",
-            "bovada:-9.5(-112)"
+            "draftkings:-9.5(-114)",
+            "fanduel:-9.5(-125)",
+            "espnbet:-6.5(-120)",
+            "betmgm:-9.5(-120)",
+            "bovada:-7(-125)"
           ]
         }
       },
       "total": {
         "consensus": 40.5,
         "best_over": {
-          "point": 40.5,
-          "book": "draftkings",
-          "price": -118
+          "point": 39.5,
+          "book": "espnbet",
+          "price": -115
         },
         "best_under": {
-          "point": 41,
-          "book": "betonlineag",
-          "price": -112
+          "point": 41.5,
+          "book": "draftkings",
+          "price": -122
         },
         "all": [
-          "draftkings:40.5",
+          "draftkings:41.5",
           "fanduel:40.5",
-          "betrivers:40.5",
-          "betonlineag:41",
-          "espnbet:40.5",
-          "betmgm:40.5",
-          "bovada:40.5"
+          "espnbet:39.5",
+          "betmgm:41.5",
+          "bovada:39.5"
         ]
       },
       "moneyline": {
         "Illinois Fighting Illini": {
-          "consensus": 270,
-          "best_price": 280,
-          "best_book": "bovada"
+          "consensus": 311,
+          "best_price": 350,
+          "best_book": "fanduel"
         },
         "Iowa Hawkeyes": {
-          "consensus": -330,
-          "best_price": -325,
-          "best_book": "draftkings"
+          "consensus": -461,
+          "best_price": -320,
+          "best_book": "espnbet"
         }
       }
     },
     {
       "id": "2851a39f971851008dbec9970da34737",
-      "kickoff": "2026-11-21T20:00:00Z",
+      "kickoff": "2026-11-21T20:02:43Z",
       "away": "Coastal Carolina Chanticleers",
       "home": "Louisiana Ragin Cajuns",
-      "books_counted": 7,
+      "books_counted": 5,
       "spreads": {
         "Coastal Carolina Chanticleers": {
-          "consensus": 10.5,
-          "best_point": 10.5,
-          "best_book": "betmgm",
-          "best_price": -110,
-          "all": [
-            "draftkings:+10.5(-115)",
-            "fanduel:+10.5(-115)",
-            "betonlineag:+10.5(-112)",
-            "espnbet:+9.5(100)",
-            "betrivers:+10(-112)",
-            "betmgm:+10.5(-110)",
-            "bovada:+10(-105)"
-          ]
-        },
-        "Louisiana Ragin Cajuns": {
-          "consensus": -10.5,
-          "best_point": -9.5,
+          "consensus": 11.5,
+          "best_point": 15.5,
           "best_book": "espnbet",
-          "best_price": -120,
+          "best_price": -115,
           "all": [
-            "draftkings:-10.5(-105)",
-            "fanduel:-10.5(-105)",
-            "betonlineag:-10.5(-108)",
-            "espnbet:-9.5(-120)",
-            "betrivers:-10(-112)",
-            "betmgm:-10.5(-108)",
-            "bovada:-10(-115)"
+            "draftkings:+10.5(-117)",
+            "fanduel:+11.5(-114)",
+            "espnbet:+15.5(-115)",
+            "betmgm:+14.5(-112)",
+            "bovada:+11.5(-115)"
+          ]
+        },
+        "Louisiana Ragin Cajuns": {
+          "consensus": -11.5,
+          "best_point": -10.5,
+          "best_book": "draftkings",
+          "best_price": -114,
+          "all": [
+            "draftkings:-10.5(-114)",
+            "fanduel:-11.5(-114)",
+            "espnbet:-15.5(-115)",
+            "betmgm:-14.5(-118)",
+            "bovada:-11.5(-115)"
           ]
         }
       },
       "total": {
-        "consensus": 49.5,
+        "consensus": 59.5,
         "best_over": {
-          "point": 49,
-          "book": "bovada",
-          "price": -110
+          "point": 54.5,
+          "book": "espnbet",
+          "price": -120
         },
         "best_under": {
-          "point": 49.5,
-          "book": "draftkings",
-          "price": -112
+          "point": 61.5,
+          "book": "fanduel",
+          "price": -118
         },
         "all": [
-          "draftkings:49.5",
-          "fanduel:49.5",
-          "betonlineag:49.5",
-          "espnbet:49.5",
-          "betrivers:49.5",
-          "betmgm:49.5",
-          "bovada:49"
+          "draftkings:59.5",
+          "fanduel:61.5",
+          "espnbet:54.5",
+          "betmgm:55.5",
+          "bovada:60.5"
         ]
       },
       "moneyline": {
         "Coastal Carolina Chanticleers": {
-          "consensus": 313,
-          "best_price": 335,
-          "best_book": "betrivers"
+          "consensus": 350,
+          "best_price": 500,
+          "best_book": "betmgm"
         },
         "Louisiana Ragin Cajuns": {
-          "consensus": -400,
-          "best_price": -390,
-          "best_book": "bovada"
-        }
-      }
-    },
-    {
-      "id": "96d5698a996feb547e098ba4b2178c0c",
-      "kickoff": "2026-11-21T20:00:00Z",
-      "away": "Delaware Blue Hens",
-      "home": "New Mexico State Aggies",
-      "books_counted": 6,
-      "spreads": {
-        "Delaware Blue Hens": {
-          "consensus": -3,
-          "best_point": -3,
-          "best_book": "betonlineag",
-          "best_price": -105,
-          "all": [
-            "draftkings:-3(-112)",
-            "betonlineag:-3(-105)",
-            "fanduel:-3.5(104)",
-            "betrivers:-3(-113)",
-            "betmgm:-3(-108)",
-            "bovada:-3(-115)"
-          ]
-        },
-        "New Mexico State Aggies": {
-          "consensus": 3,
-          "best_point": 3.5,
-          "best_book": "fanduel",
-          "best_price": -124,
-          "all": [
-            "draftkings:+3(-108)",
-            "betonlineag:+3(-115)",
-            "fanduel:+3.5(-124)",
-            "betrivers:+3(-110)",
-            "betmgm:+3(-110)",
-            "bovada:+3(-105)"
-          ]
-        }
-      },
-      "total": {
-        "consensus": 53.5,
-        "best_over": {
-          "point": 53.5,
-          "book": "draftkings",
-          "price": -115
-        },
-        "best_under": {
-          "point": 53.5,
-          "book": "draftkings",
-          "price": -105
-        },
-        "all": [
-          "draftkings:53.5",
-          "betonlineag:53.5",
-          "fanduel:53.5",
-          "betrivers:53.5",
-          "betmgm:53.5",
-          "bovada:53.5"
-        ]
-      },
-      "moneyline": {
-        "Delaware Blue Hens": {
-          "consensus": -155.5,
-          "best_price": -150,
-          "best_book": "fanduel"
-        },
-        "New Mexico State Aggies": {
-          "consensus": 130,
-          "best_price": 136,
-          "best_book": "betonlineag"
+          "consensus": -550,
+          "best_price": -450,
+          "best_book": "draftkings"
         }
       }
     },
     {
       "id": "b3f08ccb712c2c765cc2d55b4608a3dd",
-      "kickoff": "2026-11-21T20:00:00Z",
+      "kickoff": "2026-11-21T20:03:06Z",
       "away": "Florida International Panthers",
       "home": "Kennesaw State Owls",
-      "books_counted": 7,
+      "books_counted": 5,
       "spreads": {
         "Florida International Panthers": {
-          "consensus": 2.5,
-          "best_point": 2.5,
-          "best_book": "draftkings",
-          "best_price": -112,
+          "consensus": 5.5,
+          "best_point": 6.5,
+          "best_book": "bovada",
+          "best_price": -115,
           "all": [
-            "draftkings:+2.5(-112)",
-            "betonlineag:+2.5(-115)",
-            "fanduel:+2.5(-112)",
-            "espnbet:+2.5(-115)",
-            "betrivers:+2(-108)",
-            "betmgm:+2(-108)",
-            "bovada:+2.5(-112)"
+            "draftkings:+5.5(-109)",
+            "fanduel:+6.5(-122)",
+            "espnbet:+5.5(-110)",
+            "betmgm:+5.5(-112)",
+            "bovada:+6.5(-115)"
           ]
         },
         "Kennesaw State Owls": {
-          "consensus": -2.5,
-          "best_point": -2,
+          "consensus": -5.5,
+          "best_point": -5.5,
           "best_book": "betmgm",
-          "best_price": -110,
+          "best_price": -115,
           "all": [
-            "draftkings:-2.5(-108)",
-            "betonlineag:-2.5(-105)",
-            "fanduel:-2.5(-108)",
-            "espnbet:-2.5(-105)",
-            "betrivers:-2(-114)",
-            "betmgm:-2(-110)",
-            "bovada:-2.5(-108)"
+            "draftkings:-5.5(-121)",
+            "fanduel:-6.5(-108)",
+            "espnbet:-5.5(-120)",
+            "betmgm:-5.5(-115)",
+            "bovada:-6.5(-115)"
           ]
         }
       },
       "total": {
-        "consensus": 44.5,
+        "consensus": 47.5,
         "best_over": {
-          "point": 44.5,
-          "book": "draftkings",
-          "price": -110
+          "point": 46.5,
+          "book": "betmgm",
+          "price": -120
         },
         "best_under": {
-          "point": 44.5,
+          "point": 47.5,
           "book": "draftkings",
-          "price": -110
+          "price": -116
         },
         "all": [
-          "draftkings:44.5",
-          "betonlineag:44.5",
-          "fanduel:44.5",
-          "espnbet:44.5",
-          "betrivers:44.5",
-          "betmgm:44.5",
-          "bovada:44.5"
+          "draftkings:47.5",
+          "fanduel:47.5",
+          "espnbet:47.5",
+          "betmgm:46.5",
+          "bovada:46.5"
         ]
       },
       "moneyline": {
         "Florida International Panthers": {
-          "consensus": 107,
-          "best_price": 117,
-          "best_book": "betonlineag"
+          "consensus": 180,
+          "best_price": 190,
+          "best_book": "draftkings"
         },
         "Kennesaw State Owls": {
-          "consensus": -127,
-          "best_price": -122,
-          "best_book": "draftkings"
+          "consensus": -240,
+          "best_price": -210,
+          "best_book": "betmgm"
+        }
+      }
+    },
+    {
+      "id": "96d5698a996feb547e098ba4b2178c0c",
+      "kickoff": "2026-11-21T20:03:12Z",
+      "away": "Delaware Blue Hens",
+      "home": "New Mexico State Aggies",
+      "books_counted": 4,
+      "spreads": {
+        "Delaware Blue Hens": {
+          "consensus": -1.5,
+          "best_point": -1.5,
+          "best_book": "betmgm",
+          "best_price": -102,
+          "all": [
+            "draftkings:-1.5(-108)",
+            "fanduel:-1.5(-118)",
+            "betmgm:-1.5(-102)",
+            "bovada:-1.5(-115)"
+          ]
+        },
+        "New Mexico State Aggies": {
+          "consensus": 1.5,
+          "best_point": 1.5,
+          "best_book": "fanduel",
+          "best_price": -110,
+          "all": [
+            "draftkings:+1.5(-123)",
+            "fanduel:+1.5(-110)",
+            "betmgm:+1.5(-118)",
+            "bovada:+1.5(-115)"
+          ]
+        }
+      },
+      "total": {
+        "consensus": 51.5,
+        "best_over": {
+          "point": 51.5,
+          "book": "draftkings",
+          "price": -118
+        },
+        "best_under": {
+          "point": 51.5,
+          "book": "draftkings",
+          "price": -113
+        },
+        "all": [
+          "draftkings:51.5",
+          "fanduel:51.5",
+          "betmgm:51.5",
+          "bovada:51.5"
+        ]
+      },
+      "moneyline": {
+        "Delaware Blue Hens": {
+          "consensus": -123,
+          "best_price": -118,
+          "best_book": "betmgm"
+        },
+        "New Mexico State Aggies": {
+          "consensus": -107.5,
+          "best_price": -102,
+          "best_book": "fanduel"
         }
       }
     },
@@ -1849,14 +1606,14 @@
       },
       "moneyline": {
         "Arkansas Razorbacks": {
-          "consensus": 800,
+          "consensus": 775,
           "best_price": 850,
           "best_book": "betmgm"
         },
         "Texas Longhorns": {
-          "consensus": -1350,
+          "consensus": -1300,
           "best_price": -1200,
-          "best_book": "betmgm"
+          "best_book": "fanduel"
         }
       }
     },
@@ -1936,25 +1693,25 @@
           "best_price": -108,
           "all": [
             "draftkings:+5.5(-115)",
-            "fanduel:+5.5(-114)",
+            "fanduel:+5.5(-110)",
             "espnbet:+5.5(-110)",
             "betrivers:+5(-110)",
-            "betonlineag:+4.5(-105)",
-            "betmgm:+5(-110)",
+            "betonlineag:+5(-105)",
+            "betmgm:+5(-108)",
             "bovada:+5.5(-108)"
           ]
         },
         "Texas Tech Red Raiders": {
           "consensus": -5.5,
-          "best_point": -4.5,
-          "best_book": "betonlineag",
-          "best_price": -115,
+          "best_point": -5,
+          "best_book": "betmgm",
+          "best_price": -110,
           "all": [
             "draftkings:-5.5(-105)",
-            "fanduel:-5.5(-106)",
+            "fanduel:-5.5(-110)",
             "espnbet:-5.5(-110)",
             "betrivers:-5(-113)",
-            "betonlineag:-4.5(-115)",
+            "betonlineag:-5(-115)",
             "betmgm:-5(-110)",
             "bovada:-5.5(-112)"
           ]
@@ -1963,9 +1720,9 @@
       "total": {
         "consensus": 57.5,
         "best_over": {
-          "point": 57.5,
-          "book": "draftkings",
-          "price": -110
+          "point": 56.5,
+          "book": "espnbet",
+          "price": -120
         },
         "best_under": {
           "point": 58.5,
@@ -1975,7 +1732,7 @@
         "all": [
           "draftkings:57.5",
           "fanduel:57.5",
-          "espnbet:57.5",
+          "espnbet:56.5",
           "betrivers:58.5",
           "betonlineag:57.5",
           "betmgm:57.5",
@@ -1984,12 +1741,12 @@
       },
       "moneyline": {
         "Baylor Bears": {
-          "consensus": 170,
-          "best_price": 180,
-          "best_book": "bovada"
+          "consensus": 175,
+          "best_price": 183,
+          "best_book": "betonlineag"
         },
         "Texas Tech Red Raiders": {
-          "consensus": -205,
+          "consensus": -210,
           "best_price": -200,
           "best_book": "betrivers"
         }
@@ -2012,9 +1769,9 @@
             "betrivers:-10(-115)",
             "betonlineag:-10.5(-113)",
             "draftkings:-10.5(-108)",
-            "espnbet:-10.5(100)",
+            "espnbet:-10.5(-105)",
             "betmgm:-10.5(-110)",
-            "bovada:-10.5(-110)"
+            "bovada:-10.5(-108)"
           ]
         },
         "NC State Wolfpack": {
@@ -2027,18 +1784,18 @@
             "betrivers:+10(-108)",
             "betonlineag:+10.5(-107)",
             "draftkings:+10.5(-112)",
-            "espnbet:+10.5(-120)",
+            "espnbet:+10.5(-115)",
             "betmgm:+10.5(-108)",
-            "bovada:+10.5(-110)"
+            "bovada:+10.5(-112)"
           ]
         }
       },
       "total": {
         "consensus": 56.5,
         "best_over": {
-          "point": 55.5,
-          "book": "betrivers",
-          "price": -113
+          "point": 56,
+          "book": "betonlineag",
+          "price": -115
         },
         "best_under": {
           "point": 56.5,
@@ -2047,7 +1804,7 @@
         },
         "all": [
           "fanduel:56.5",
-          "betrivers:55.5",
+          "betrivers:56.5",
           "betonlineag:56",
           "draftkings:56.5",
           "espnbet:56.5",
@@ -2057,14 +1814,14 @@
       },
       "moneyline": {
         "Florida State Seminoles": {
-          "consensus": -410,
+          "consensus": -405,
           "best_price": -395,
           "best_book": "draftkings"
         },
         "NC State Wolfpack": {
           "consensus": 320,
-          "best_price": 325,
-          "best_book": "betrivers"
+          "best_price": 340,
+          "best_book": "espnbet"
         }
       }
     },
@@ -2086,7 +1843,7 @@
             "betrivers:-8.5(-112)",
             "betonlineag:-9(-115)",
             "espnbet:-9.5(-110)",
-            "betmgm:-9(-110)",
+            "betmgm:-9(-108)",
             "bovada:-9(-112)"
           ]
         },
@@ -2101,7 +1858,7 @@
             "betrivers:+8.5(-112)",
             "betonlineag:+9(-105)",
             "espnbet:+9.5(-110)",
-            "betmgm:+9(-108)",
+            "betmgm:+9(-110)",
             "bovada:+9(-108)"
           ]
         }
@@ -2125,7 +1882,7 @@
           "betonlineag:44",
           "espnbet:44.5",
           "betmgm:44.5",
-          "bovada:44"
+          "bovada:44.5"
         ]
       },
       "moneyline": {
@@ -2151,31 +1908,31 @@
         "LSU Tigers": {
           "consensus": -1.5,
           "best_point": -1,
-          "best_book": "bovada",
-          "best_price": -108,
+          "best_book": "betrivers",
+          "best_price": -110,
           "all": [
-            "draftkings:-1.5(-105)",
-            "fanduel:-1.5(-104)",
-            "betrivers:-1.5(-109)",
-            "betonlineag:-1(-112)",
-            "espnbet:-1.5(-105)",
-            "betmgm:-1(-110)",
-            "bovada:-1(-108)"
+            "draftkings:-1.5(-115)",
+            "fanduel:-1.5(-112)",
+            "betrivers:-1(-110)",
+            "betonlineag:-1.5(-115)",
+            "espnbet:-1.5(-110)",
+            "betmgm:-2(-108)",
+            "bovada:-1.5(-110)"
           ]
         },
         "Tennessee Volunteers": {
           "consensus": 1.5,
-          "best_point": 1.5,
-          "best_book": "betrivers",
-          "best_price": -114,
+          "best_point": 2,
+          "best_book": "betmgm",
+          "best_price": -110,
           "all": [
-            "draftkings:+1.5(-115)",
-            "fanduel:+1.5(-116)",
-            "betrivers:+1.5(-114)",
-            "betonlineag:+1(-108)",
-            "espnbet:+1.5(-115)",
-            "betmgm:+1(-108)",
-            "bovada:+1(-112)"
+            "draftkings:+1.5(-105)",
+            "fanduel:+1.5(-108)",
+            "betrivers:+1(-113)",
+            "betonlineag:+1.5(-105)",
+            "espnbet:+1.5(-110)",
+            "betmgm:+2(-110)",
+            "bovada:+1.5(-110)"
           ]
         }
       },
@@ -2184,106 +1941,33 @@
         "best_over": {
           "point": 45.5,
           "book": "draftkings",
-          "price": -108
+          "price": -115
         },
         "best_under": {
-          "point": 46,
-          "book": "betonlineag",
-          "price": -105
+          "point": 46.5,
+          "book": "bovada",
+          "price": -110
         },
         "all": [
           "draftkings:45.5",
           "fanduel:45.5",
           "betrivers:45.5",
-          "betonlineag:46",
+          "betonlineag:45.5",
           "espnbet:45.5",
           "betmgm:45.5",
-          "bovada:45.5"
+          "bovada:46.5"
         ]
       },
       "moneyline": {
         "LSU Tigers": {
-          "consensus": -115,
-          "best_price": -112,
-          "best_book": "betmgm"
+          "consensus": -122,
+          "best_price": -114,
+          "best_book": "betrivers"
         },
         "Tennessee Volunteers": {
-          "consensus": -105,
-          "best_price": -105,
-          "best_book": "draftkings"
-        }
-      }
-    },
-    {
-      "id": "ae9b81f4814e1d9dae835a13f4245ce3",
-      "kickoff": "2026-11-21T20:30:00Z",
-      "away": "UCLA Bruins",
-      "home": "Michigan Wolverines",
-      "books_counted": 7,
-      "spreads": {
-        "Michigan Wolverines": {
-          "consensus": 3.5,
-          "best_point": 3.5,
-          "best_book": "fanduel",
-          "best_price": -108,
-          "all": [
-            "draftkings:+3.5(-115)",
-            "fanduel:+3.5(-108)",
-            "betrivers:+3.5(-112)",
-            "betonlineag:+3.5(-109)",
-            "espnbet:+3.5(-115)",
-            "betmgm:+3.5(-110)",
-            "bovada:+3.5(-112)"
-          ]
-        },
-        "UCLA Bruins": {
-          "consensus": -3.5,
-          "best_point": -3.5,
-          "best_book": "draftkings",
-          "best_price": -105,
-          "all": [
-            "draftkings:-3.5(-105)",
-            "fanduel:-3.5(-112)",
-            "betrivers:-3.5(-112)",
-            "betonlineag:-3.5(-111)",
-            "espnbet:-3.5(-105)",
-            "betmgm:-3.5(-108)",
-            "bovada:-3.5(-108)"
-          ]
-        }
-      },
-      "total": {
-        "consensus": 36.5,
-        "best_over": {
-          "point": 35.5,
-          "book": "betrivers",
-          "price": -120
-        },
-        "best_under": {
-          "point": 36.5,
-          "book": "draftkings",
-          "price": -110
-        },
-        "all": [
-          "draftkings:36.5",
-          "fanduel:36.5",
-          "betrivers:35.5",
-          "betonlineag:36.5",
-          "espnbet:36.5",
-          "betmgm:36.5",
-          "bovada:36.5"
-        ]
-      },
-      "moneyline": {
-        "Michigan Wolverines": {
-          "consensus": 150,
-          "best_price": 161,
-          "best_book": "betonlineag"
-        },
-        "UCLA Bruins": {
-          "consensus": -180,
-          "best_price": -175,
-          "best_book": "betrivers"
+          "consensus": 102,
+          "best_price": 105,
+          "best_book": "espnbet"
         }
       }
     },
@@ -2295,61 +1979,61 @@
       "books_counted": 7,
       "spreads": {
         "Old Dominion Monarchs": {
-          "consensus": 13.5,
-          "best_point": 14.5,
-          "best_book": "espnbet",
-          "best_price": -115,
+          "consensus": 14,
+          "best_point": 14,
+          "best_book": "draftkings",
+          "best_price": -110,
           "all": [
-            "draftkings:+13.5(-102)",
+            "draftkings:+14(-110)",
             "fanduel:+13.5(100)",
-            "betonlineag:+13.5(-105)",
-            "espnbet:+14.5(-115)",
+            "betonlineag:+14(-110)",
+            "espnbet:+13.5(-105)",
             "betrivers:+13.5(-109)",
             "betmgm:+14(-110)",
-            "bovada:+14(-115)"
+            "bovada:+14(-112)"
           ]
         },
         "UConn Huskies": {
-          "consensus": -13.5,
+          "consensus": -14,
           "best_point": -13.5,
           "best_book": "betrivers",
           "best_price": -114,
           "all": [
-            "draftkings:-13.5(-118)",
+            "draftkings:-14(-110)",
             "fanduel:-13.5(-120)",
-            "betonlineag:-13.5(-115)",
-            "espnbet:-14.5(-105)",
+            "betonlineag:-14(-110)",
+            "espnbet:-13.5(-115)",
             "betrivers:-13.5(-114)",
             "betmgm:-14(-108)",
-            "bovada:-14(-105)"
+            "bovada:-14(-108)"
           ]
         }
       },
       "total": {
-        "consensus": 48.5,
+        "consensus": 47.5,
         "best_over": {
           "point": 47.5,
-          "book": "betrivers",
-          "price": -118
+          "book": "fanduel",
+          "price": -115
         },
         "best_under": {
           "point": 48.5,
           "book": "draftkings",
-          "price": -112
+          "price": -118
         },
         "all": [
           "draftkings:48.5",
-          "fanduel:48.5",
+          "fanduel:47.5",
           "betonlineag:48.5",
-          "espnbet:48.5",
+          "espnbet:47.5",
           "betrivers:47.5",
-          "betmgm:48.5",
-          "bovada:48.5"
+          "betmgm:47.5",
+          "bovada:48"
         ]
       },
       "moneyline": {
         "Old Dominion Monarchs": {
-          "consensus": 440,
+          "consensus": 450,
           "best_price": 475,
           "best_book": "betrivers"
         },
@@ -2368,42 +2052,42 @@
       "books_counted": 7,
       "spreads": {
         "Penn State Nittany Lions": {
-          "consensus": -26.5,
-          "best_point": -25.5,
-          "best_book": "betrivers",
-          "best_price": -113,
-          "all": [
-            "fanduel:-25.5(-115)",
-            "draftkings:-26.5(-110)",
-            "betonlineag:-26.5(-115)",
-            "espnbet:-26.5(-110)",
-            "betrivers:-25.5(-113)",
-            "betmgm:-26.5(-108)",
-            "bovada:-26(-108)"
-          ]
-        },
-        "Rutgers Scarlet Knights": {
-          "consensus": 26.5,
-          "best_point": 26.5,
+          "consensus": -24.5,
+          "best_point": -24.5,
           "best_book": "betonlineag",
           "best_price": -105,
           "all": [
-            "fanduel:+25.5(-105)",
-            "draftkings:+26.5(-110)",
-            "betonlineag:+26.5(-105)",
-            "espnbet:+26.5(-110)",
-            "betrivers:+25.5(-109)",
-            "betmgm:+26.5(-110)",
-            "bovada:+26(-112)"
+            "fanduel:-24.5(-108)",
+            "draftkings:-24.5(-115)",
+            "betonlineag:-24.5(-105)",
+            "espnbet:-24.5(-110)",
+            "betrivers:-25.5(-110)",
+            "betmgm:-24.5(-110)",
+            "bovada:-25(-112)"
+          ]
+        },
+        "Rutgers Scarlet Knights": {
+          "consensus": 24.5,
+          "best_point": 25.5,
+          "best_book": "betrivers",
+          "best_price": -112,
+          "all": [
+            "fanduel:+24.5(-112)",
+            "draftkings:+24.5(-105)",
+            "betonlineag:+24.5(-115)",
+            "espnbet:+24.5(-110)",
+            "betrivers:+25.5(-112)",
+            "betmgm:+24.5(-108)",
+            "bovada:+25(-108)"
           ]
         }
       },
       "total": {
         "consensus": 48.5,
         "best_over": {
-          "point": 48,
-          "book": "bovada",
-          "price": -112
+          "point": 48.5,
+          "book": "fanduel",
+          "price": -110
         },
         "best_under": {
           "point": 48.5,
@@ -2417,19 +2101,92 @@
           "espnbet:48.5",
           "betrivers:48.5",
           "betmgm:48.5",
-          "bovada:48"
+          "bovada:48.5"
         ]
       },
       "moneyline": {
         "Penn State Nittany Lions": {
-          "consensus": -3350,
+          "consensus": -2900,
           "best_price": -2500,
-          "best_book": "bovada"
+          "best_book": "betmgm"
         },
         "Rutgers Scarlet Knights": {
-          "consensus": 1475,
-          "best_price": 1800,
+          "consensus": 1350,
+          "best_price": 1500,
           "best_book": "espnbet"
+        }
+      }
+    },
+    {
+      "id": "ae9b81f4814e1d9dae835a13f4245ce3",
+      "kickoff": "2026-11-21T20:40:00Z",
+      "away": "UCLA Bruins",
+      "home": "Michigan Wolverines",
+      "books_counted": 7,
+      "spreads": {
+        "Michigan Wolverines": {
+          "consensus": 3.5,
+          "best_point": 4,
+          "best_book": "betrivers",
+          "best_price": -110,
+          "all": [
+            "draftkings:+3.5(-115)",
+            "fanduel:+3.5(-114)",
+            "betrivers:+4(-110)",
+            "betonlineag:+3.5(-115)",
+            "espnbet:+3.5(-120)",
+            "betmgm:+3.5(-115)",
+            "bovada:+3.5(-112)"
+          ]
+        },
+        "UCLA Bruins": {
+          "consensus": -3.5,
+          "best_point": -3.5,
+          "best_book": "espnbet",
+          "best_price": 100,
+          "all": [
+            "draftkings:-3.5(-105)",
+            "fanduel:-3.5(-106)",
+            "betrivers:-4(-112)",
+            "betonlineag:-3.5(-105)",
+            "espnbet:-3.5(100)",
+            "betmgm:-3.5(-105)",
+            "bovada:-3.5(-108)"
+          ]
+        }
+      },
+      "total": {
+        "consensus": 36,
+        "best_over": {
+          "point": 35.5,
+          "book": "fanduel",
+          "price": -114
+        },
+        "best_under": {
+          "point": 36.5,
+          "book": "draftkings",
+          "price": -115
+        },
+        "all": [
+          "draftkings:36.5",
+          "fanduel:35.5",
+          "betrivers:35.5",
+          "betonlineag:36.5",
+          "espnbet:35.5",
+          "betmgm:36.5",
+          "bovada:36"
+        ]
+      },
+      "moneyline": {
+        "Michigan Wolverines": {
+          "consensus": 149,
+          "best_price": 150,
+          "best_book": "draftkings"
+        },
+        "UCLA Bruins": {
+          "consensus": -175,
+          "best_price": -170,
+          "best_book": "fanduel"
         }
       }
     },
@@ -2446,10 +2203,10 @@
           "best_book": "espnbet",
           "best_price": -120,
           "all": [
-            "draftkings:-7(-110)",
+            "draftkings:-7(-108)",
             "fanduel:-6.5(-122)",
             "betonlineag:-7(-110)",
-            "betrivers:-7(-113)",
+            "betrivers:-7(-112)",
             "betmgm:-7(-110)",
             "espnbet:-6.5(-120)",
             "bovada:-7(-108)"
@@ -2461,10 +2218,10 @@
           "best_book": "betmgm",
           "best_price": -108,
           "all": [
-            "draftkings:+7(-110)",
+            "draftkings:+7(-112)",
             "fanduel:+6.5(102)",
             "betonlineag:+7(-110)",
-            "betrivers:+7(-110)",
+            "betrivers:+7(-112)",
             "betmgm:+7(-108)",
             "espnbet:+6.5(100)",
             "bovada:+7(-112)"
@@ -2514,53 +2271,53 @@
       "books_counted": 7,
       "spreads": {
         "Georgia Southern Eagles": {
-          "consensus": -9.5,
-          "best_point": -9.5,
-          "best_book": "draftkings",
+          "consensus": -8.5,
+          "best_point": -8,
+          "best_book": "bovada",
           "best_price": -108,
           "all": [
-            "draftkings:-9.5(-108)",
-            "betonlineag:-9.5(-110)",
-            "fanduel:-9.5(-108)",
-            "espnbet:-9.5(-110)",
-            "betrivers:-9.5(-112)",
-            "betmgm:-9.5(-110)",
-            "bovada:-9.5(-108)"
+            "draftkings:-8.5(-110)",
+            "betonlineag:-8.5(-105)",
+            "fanduel:-8.5(-110)",
+            "espnbet:-8.5(-110)",
+            "betrivers:-8.5(-112)",
+            "betmgm:-8(-112)",
+            "bovada:-8(-108)"
           ]
         },
         "Troy Trojans": {
-          "consensus": 9.5,
-          "best_point": 9.5,
-          "best_book": "betmgm",
-          "best_price": -108,
+          "consensus": 8.5,
+          "best_point": 8.5,
+          "best_book": "draftkings",
+          "best_price": -110,
           "all": [
-            "draftkings:+9.5(-112)",
-            "betonlineag:+9.5(-110)",
-            "fanduel:+9.5(-112)",
-            "espnbet:+9.5(-110)",
-            "betrivers:+9.5(-112)",
-            "betmgm:+9.5(-108)",
-            "bovada:+9.5(-112)"
+            "draftkings:+8.5(-110)",
+            "betonlineag:+8.5(-115)",
+            "fanduel:+8.5(-110)",
+            "espnbet:+8.5(-110)",
+            "betrivers:+8.5(-112)",
+            "betmgm:+8(-105)",
+            "bovada:+8(-112)"
           ]
         }
       },
       "total": {
         "consensus": 47.5,
         "best_over": {
-          "point": 47.5,
-          "book": "draftkings",
-          "price": -110
+          "point": 46.5,
+          "book": "espnbet",
+          "price": -120
         },
         "best_under": {
           "point": 47.5,
           "book": "draftkings",
-          "price": -110
+          "price": -115
         },
         "all": [
           "draftkings:47.5",
           "betonlineag:47.5",
           "fanduel:47.5",
-          "espnbet:47.5",
+          "espnbet:46.5",
           "betrivers:47.5",
           "betmgm:47.5",
           "bovada:47.5"
@@ -2568,13 +2325,13 @@
       },
       "moneyline": {
         "Georgia Southern Eagles": {
-          "consensus": -350,
-          "best_price": -335,
-          "best_book": "fanduel"
+          "consensus": -320,
+          "best_price": -300,
+          "best_book": "betmgm"
         },
         "Troy Trojans": {
-          "consensus": 280,
-          "best_price": 295,
+          "consensus": 260,
+          "best_price": 280,
           "best_book": "betrivers"
         }
       }
@@ -2589,31 +2346,31 @@
         "Georgia State Panthers": {
           "consensus": 3,
           "best_point": 3.5,
-          "best_book": "espnbet",
-          "best_price": -120,
+          "best_book": "bovada",
+          "best_price": -117,
           "all": [
-            "draftkings:+3(-115)",
-            "betonlineag:+3(-115)",
+            "draftkings:+3(-108)",
+            "betonlineag:+3(-104)",
             "fanduel:+2.5(-104)",
             "espnbet:+3.5(-120)",
-            "betrivers:+3(-121)",
-            "betmgm:+2.5(-102)",
-            "bovada:+3(-112)"
+            "betrivers:+3(-114)",
+            "betmgm:+3(-110)",
+            "bovada:+3.5(-117)"
           ]
         },
         "Marshall Thundering Herd": {
           "consensus": -3,
           "best_point": -2.5,
-          "best_book": "betmgm",
-          "best_price": -115,
+          "best_book": "fanduel",
+          "best_price": -116,
           "all": [
-            "draftkings:-3(-105)",
-            "betonlineag:-3(-105)",
+            "draftkings:-3(-112)",
+            "betonlineag:-3(-116)",
             "fanduel:-2.5(-116)",
             "espnbet:-3.5(100)",
-            "betrivers:-3(-104)",
-            "betmgm:-2.5(-115)",
-            "bovada:-3(-108)"
+            "betrivers:-3(-109)",
+            "betmgm:-3(-108)",
+            "bovada:-3.5(-103)"
           ]
         }
       },
@@ -2634,19 +2391,19 @@
           "betonlineag:56",
           "fanduel:56.5",
           "espnbet:55.5",
-          "betrivers:55.5",
+          "betrivers:56.5",
           "betmgm:56.5",
-          "bovada:56.5"
+          "bovada:56"
         ]
       },
       "moneyline": {
         "Georgia State Panthers": {
-          "consensus": 122,
-          "best_price": 125,
-          "best_book": "espnbet"
+          "consensus": 130,
+          "best_price": 132,
+          "best_book": "betonlineag"
         },
         "Marshall Thundering Herd": {
-          "consensus": -142,
+          "consensus": -152,
           "best_price": -138,
           "best_book": "fanduel"
         }
@@ -2668,58 +2425,58 @@
             "draftkings:-25.5(-115)",
             "betonlineag:-25.5(-105)",
             "fanduel:-25.5(-110)",
-            "espnbet:-25.5(-110)",
-            "betmgm:-26(-108)",
-            "betrivers:-25.5(-112)",
-            "bovada:-26(-110)"
+            "espnbet:-25.5(-105)",
+            "betmgm:-25.5(-110)",
+            "betrivers:-26(-110)",
+            "bovada:-26.5(-108)"
           ]
         },
         "Northern Illinois Huskies": {
           "consensus": 25.5,
-          "best_point": 26,
-          "best_book": "betmgm",
-          "best_price": -110,
+          "best_point": 26.5,
+          "best_book": "bovada",
+          "best_price": -112,
           "all": [
             "draftkings:+25.5(-105)",
             "betonlineag:+25.5(-115)",
             "fanduel:+25.5(-110)",
-            "espnbet:+25.5(-110)",
-            "betmgm:+26(-110)",
-            "betrivers:+25.5(-112)",
-            "bovada:+26(-110)"
+            "espnbet:+25.5(-115)",
+            "betmgm:+25.5(-108)",
+            "betrivers:+26(-112)",
+            "bovada:+26.5(-112)"
           ]
         }
       },
       "total": {
-        "consensus": 45.5,
+        "consensus": 46.5,
         "best_over": {
-          "point": 45,
-          "book": "bovada",
-          "price": -108
+          "point": 45.5,
+          "book": "betonlineag",
+          "price": -110
         },
         "best_under": {
-          "point": 45.5,
+          "point": 46.5,
           "book": "draftkings",
-          "price": -115
+          "price": -110
         },
         "all": [
-          "draftkings:45.5",
+          "draftkings:46.5",
           "betonlineag:45.5",
-          "fanduel:45.5",
-          "espnbet:45.5",
-          "betmgm:45.5",
-          "betrivers:45.5",
-          "bovada:45"
+          "fanduel:46.5",
+          "espnbet:46.5",
+          "betmgm:46.5",
+          "betrivers:46.5",
+          "bovada:46.5"
         ]
       },
       "moneyline": {
         "North Dakota State Bison": {
           "consensus": -3100,
-          "best_price": -2800,
-          "best_book": "bovada"
+          "best_price": -3000,
+          "best_book": "betonlineag"
         },
         "Northern Illinois Huskies": {
-          "consensus": 1350,
+          "consensus": 1450,
           "best_price": 1600,
           "best_book": "fanduel"
         }
@@ -2733,63 +2490,63 @@
       "books_counted": 7,
       "spreads": {
         "South Alabama Jaguars": {
-          "consensus": -5.5,
+          "consensus": -5,
           "best_point": -4.5,
-          "best_book": "betrivers",
+          "best_book": "draftkings",
           "best_price": -112,
           "all": [
-            "draftkings:-5.5(-105)",
+            "draftkings:-4.5(-112)",
             "fanduel:-5.5(-110)",
             "betonlineag:-5(-112)",
             "espnbet:-5.5(-105)",
-            "betmgm:-5.5(-105)",
+            "betmgm:-5(-110)",
             "betrivers:-4.5(-112)",
-            "bovada:-5(-112)"
+            "bovada:-5(-108)"
           ]
         },
         "Southern Mississippi Golden Eagles": {
-          "consensus": 5.5,
+          "consensus": 5,
           "best_point": 5.5,
           "best_book": "fanduel",
           "best_price": -110,
           "all": [
-            "draftkings:+5.5(-115)",
+            "draftkings:+4.5(-108)",
             "fanduel:+5.5(-110)",
             "betonlineag:+5(-108)",
             "espnbet:+5.5(-115)",
-            "betmgm:+5.5(-112)",
+            "betmgm:+5(-108)",
             "betrivers:+4.5(-112)",
-            "bovada:+5(-108)"
+            "bovada:+5(-112)"
           ]
         }
       },
       "total": {
         "consensus": 65.5,
         "best_over": {
+          "point": 64.5,
+          "book": "espnbet",
+          "price": -120
+        },
+        "best_under": {
           "point": 65.5,
           "book": "draftkings",
           "price": -115
-        },
-        "best_under": {
-          "point": 66.5,
-          "book": "espnbet",
-          "price": -110
         },
         "all": [
           "draftkings:65.5",
           "fanduel:65.5",
           "betonlineag:65.5",
-          "espnbet:66.5",
+          "espnbet:64.5",
           "betmgm:65.5",
-          "betrivers:66.5",
-          "bovada:65.5"
+          "betrivers:65.5",
+          "bovada:65"
         ]
       },
       "moneyline": {
         "South Alabama Jaguars": {
           "consensus": -205,
-          "best_price": -198,
-          "best_book": "draftkings"
+          "best_price": -195,
+          "best_book": "bovada"
         },
         "Southern Mississippi Golden Eagles": {
           "consensus": 170,
@@ -2807,16 +2564,16 @@
       "spreads": {
         "Texas State Bobcats": {
           "consensus": -13.5,
-          "best_point": -13,
-          "best_book": "betrivers",
-          "best_price": -112,
+          "best_point": -13.5,
+          "best_book": "espnbet",
+          "best_price": -110,
           "all": [
             "draftkings:-13.5(-118)",
             "betonlineag:-13.5(-120)",
             "fanduel:-13.5(-112)",
             "espnbet:-13.5(-110)",
             "betmgm:-14(-105)",
-            "betrivers:-13(-112)",
+            "betrivers:-13.5(-115)",
             "bovada:-13.5(-115)"
           ]
         },
@@ -2831,7 +2588,7 @@
             "fanduel:+13.5(-108)",
             "espnbet:+13.5(-110)",
             "betmgm:+14(-112)",
-            "betrivers:+13(-112)",
+            "betrivers:+13.5(-108)",
             "bovada:+13.5(-105)"
           ]
         }
@@ -2866,8 +2623,8 @@
         },
         "Washington State Cougars": {
           "consensus": 425,
-          "best_price": 450,
-          "best_book": "espnbet"
+          "best_price": 475,
+          "best_book": "betrivers"
         }
       }
     },
@@ -2913,7 +2670,7 @@
         "consensus": 57.5,
         "best_over": {
           "point": 56.5,
-          "book": "espnbet",
+          "book": "draftkings",
           "price": -115
         },
         "best_under": {
@@ -2925,8 +2682,8 @@
           "fanduel:57.5",
           "betonlineag:57",
           "betrivers:57.5",
-          "draftkings:57.5",
-          "espnbet:56.5",
+          "draftkings:56.5",
+          "espnbet:57.5",
           "betmgm:57.5",
           "bovada:57.5"
         ]
@@ -2961,8 +2718,8 @@
             "espnbet:-9.5(-115)",
             "betonlineag:-10(-116)",
             "betrivers:-10(-115)",
-            "draftkings:-10(-112)",
-            "betmgm:-10(-108)",
+            "draftkings:-10(-110)",
+            "betmgm:-10(-110)",
             "bovada:-10(-112)"
           ]
         },
@@ -2976,8 +2733,8 @@
             "espnbet:+9.5(-105)",
             "betonlineag:+10(-104)",
             "betrivers:+10(-108)",
-            "draftkings:+10(-108)",
-            "betmgm:+10(-110)",
+            "draftkings:+10(-110)",
+            "betmgm:+10(-108)",
             "bovada:+10(-108)"
           ]
         }
@@ -3106,7 +2863,7 @@
             "draftkings:-20.5(-115)",
             "fanduel:-20.5(-110)",
             "betrivers:-21(-108)",
-            "espnbet:-20.5(-115)",
+            "espnbet:-20.5(-110)",
             "betonlineag:-20.5(-118)",
             "betmgm:-20.5(-115)",
             "bovada:-20.5(-117)"
@@ -3121,7 +2878,7 @@
             "draftkings:+20.5(-105)",
             "fanduel:+20.5(-110)",
             "betrivers:+21(-115)",
-            "espnbet:+20.5(-105)",
+            "espnbet:+20.5(-110)",
             "betonlineag:+20.5(-102)",
             "betmgm:+20.5(-105)",
             "bovada:+20.5(-103)"
@@ -3206,18 +2963,18 @@
         "best_over": {
           "point": 47.5,
           "book": "draftkings",
-          "price": -112
+          "price": -118
         },
         "best_under": {
           "point": 48.5,
-          "book": "betrivers",
-          "price": -115
+          "book": "espnbet",
+          "price": -110
         },
         "all": [
           "draftkings:47.5",
           "betonlineag:47.5",
           "fanduel:47.5",
-          "espnbet:47.5",
+          "espnbet:48.5",
           "betmgm:47.5",
           "betrivers:48.5",
           "bovada:48"
@@ -3225,12 +2982,12 @@
       },
       "moneyline": {
         "San Jose State Spartans": {
-          "consensus": 200,
+          "consensus": 195,
           "best_price": 200,
-          "best_book": "draftkings"
+          "best_book": "espnbet"
         },
         "UNLV Rebels": {
-          "consensus": -240,
+          "consensus": -238,
           "best_price": -235,
           "best_book": "betonlineag"
         }
@@ -3350,29 +3107,29 @@
       "total": {
         "consensus": 66.5,
         "best_over": {
-          "point": 66,
-          "book": "betonlineag",
-          "price": -117
-        },
-        "best_under": {
           "point": 66.5,
           "book": "draftkings",
           "price": -112
         },
+        "best_under": {
+          "point": 67,
+          "book": "bovada",
+          "price": -108
+        },
         "all": [
           "draftkings:66.5",
-          "betonlineag:66",
+          "betonlineag:66.5",
           "fanduel:66.5",
           "espnbet:66.5",
           "betmgm:66.5",
           "betrivers:66.5",
-          "bovada:66.5"
+          "bovada:67"
         ]
       },
       "moneyline": {
         "Colorado State Rams": {
-          "consensus": 836,
-          "best_price": 1000,
+          "consensus": 850,
+          "best_price": 900,
           "best_book": "espnbet"
         },
         "Fresno State Bulldogs": {
@@ -3450,7 +3207,7 @@
         },
         "South Carolina Gamecocks": {
           "consensus": 525,
-          "best_price": 531,
+          "best_price": 586,
           "best_book": "betonlineag"
         }
       }
@@ -3473,32 +3230,32 @@
             "betrivers:+4.5(-113)",
             "espnbet:+5.5(-110)",
             "betonlineag:+4.5(-108)",
-            "betmgm:+5(-110)",
+            "betmgm:+4.5(-108)",
             "bovada:+5(-112)"
           ]
         },
         "Missouri Tigers": {
           "consensus": -4.5,
           "best_point": -4.5,
-          "best_book": "fanduel",
-          "best_price": -110,
+          "best_book": "betrivers",
+          "best_price": -109,
           "all": [
             "fanduel:-4.5(-110)",
             "draftkings:-4.5(-115)",
-            "betrivers:-4.5(-110)",
+            "betrivers:-4.5(-109)",
             "espnbet:-5.5(-110)",
             "betonlineag:-4.5(-112)",
-            "betmgm:-5(-108)",
+            "betmgm:-4.5(-110)",
             "bovada:-5(-108)"
           ]
         }
       },
       "total": {
-        "consensus": 49.5,
+        "consensus": 50,
         "best_over": {
           "point": 49.5,
           "book": "draftkings",
-          "price": -110
+          "price": -115
         },
         "best_under": {
           "point": 50.5,
@@ -3511,20 +3268,20 @@
           "betrivers:49.5",
           "espnbet:50.5",
           "betonlineag:50",
-          "betmgm:49.5",
+          "betmgm:50.5",
           "bovada:49.5"
         ]
       },
       "moneyline": {
         "Kentucky Wildcats": {
-          "consensus": 165,
+          "consensus": 170,
           "best_price": 174,
           "best_book": "betonlineag"
         },
         "Missouri Tigers": {
           "consensus": -200,
-          "best_price": -188,
-          "best_book": "fanduel"
+          "best_price": -186,
+          "best_book": "betrivers"
         }
       }
     },
@@ -3536,22 +3293,22 @@
       "books_counted": 7,
       "spreads": {
         "Louisville Cardinals": {
-          "consensus": -12.5,
-          "best_point": -12,
-          "best_book": "betonlineag",
-          "best_price": -110,
+          "consensus": -12,
+          "best_point": -11.5,
+          "best_book": "draftkings",
+          "best_price": -112,
           "all": [
             "fanduel:-12.5(-110)",
             "betrivers:-12.5(-110)",
             "betonlineag:-12(-110)",
-            "draftkings:-12.5(-110)",
+            "draftkings:-11.5(-112)",
             "espnbet:-12.5(-110)",
-            "betmgm:-12(-110)",
-            "bovada:-12.5(-110)"
+            "betmgm:-12(-108)",
+            "bovada:-12(-110)"
           ]
         },
         "Pittsburgh Panthers": {
-          "consensus": 12.5,
+          "consensus": 12,
           "best_point": 12.5,
           "best_book": "fanduel",
           "best_price": -110,
@@ -3559,10 +3316,10 @@
             "fanduel:+12.5(-110)",
             "betrivers:+12.5(-113)",
             "betonlineag:+12(-110)",
-            "draftkings:+12.5(-110)",
+            "draftkings:+11.5(-108)",
             "espnbet:+12.5(-110)",
-            "betmgm:+12(-108)",
-            "bovada:+12.5(-110)"
+            "betmgm:+12(-110)",
+            "bovada:+12(-110)"
           ]
         }
       },
@@ -3590,12 +3347,12 @@
       },
       "moneyline": {
         "Louisville Cardinals": {
-          "consensus": -485,
+          "consensus": -480,
           "best_price": -460,
           "best_book": "betonlineag"
         },
         "Pittsburgh Panthers": {
-          "consensus": 370,
+          "consensus": 365,
           "best_price": 380,
           "best_book": "betrivers"
         }
@@ -3682,32 +3439,32 @@
       "books_counted": 7,
       "spreads": {
         "UAB Blazers": {
-          "consensus": 4.5,
-          "best_point": 4.5,
-          "best_book": "espnbet",
-          "best_price": -105,
+          "consensus": 4,
+          "best_point": 4,
+          "best_book": "draftkings",
+          "best_price": -110,
           "all": [
-            "draftkings:+4.5(-115)",
+            "draftkings:+4(-110)",
             "betonlineag:+4(-110)",
-            "fanduel:+4.5(-110)",
-            "espnbet:+4.5(-105)",
-            "betmgm:+4(-108)",
-            "bovada:+4.5(-112)",
+            "fanduel:+3.5(100)",
+            "espnbet:+3.5(-105)",
+            "betmgm:+4(-110)",
+            "bovada:+4(-112)",
             "betrivers:+4(-112)"
           ]
         },
         "UTSA Roadrunners": {
-          "consensus": -4.5,
-          "best_point": -4,
-          "best_book": "betonlineag",
-          "best_price": -110,
+          "consensus": -4,
+          "best_point": -3.5,
+          "best_book": "espnbet",
+          "best_price": -115,
           "all": [
-            "draftkings:-4.5(-105)",
+            "draftkings:-4(-110)",
             "betonlineag:-4(-110)",
-            "fanduel:-4.5(-110)",
-            "espnbet:-4.5(-115)",
-            "betmgm:-4(-110)",
-            "bovada:-4.5(-108)",
+            "fanduel:-3.5(-116)",
+            "espnbet:-3.5(-115)",
+            "betmgm:-4(-108)",
+            "bovada:-4(-108)",
             "betrivers:-4(-112)"
           ]
         }
@@ -3736,14 +3493,14 @@
       },
       "moneyline": {
         "UAB Blazers": {
-          "consensus": 163,
-          "best_price": 170,
-          "best_book": "espnbet"
+          "consensus": 157,
+          "best_price": 163,
+          "best_book": "betrivers"
         },
         "UTSA Roadrunners": {
-          "consensus": -192,
-          "best_price": -180,
-          "best_book": "betonlineag"
+          "consensus": -190,
+          "best_price": -175,
+          "best_book": "espnbet"
         }
       }
     },
@@ -3793,16 +3550,16 @@
           "price": -115
         },
         "best_under": {
-          "point": 46.5,
-          "book": "draftkings",
-          "price": -112
+          "point": 47.5,
+          "book": "betrivers",
+          "price": -114
         },
         "all": [
           "draftkings:46.5",
           "fanduel:46.5",
           "espnbet:46.5",
           "betonlineag:46",
-          "betrivers:46.5",
+          "betrivers:47.5",
           "betmgm:46.5",
           "bovada:46.5"
         ]
@@ -3852,14 +3609,14 @@
             "betonlineag:+20(-107)",
             "fanduel:+20.5(-110)",
             "espnbet:+20.5(-110)",
-            "betmgm:+20.5(-108)",
+            "betmgm:+20.5(-110)",
             "betrivers:+20.5(-109)",
             "bovada:+20.5(-105)"
           ]
         }
       },
       "total": {
-        "consensus": 61,
+        "consensus": 61.5,
         "best_over": {
           "point": 60.5,
           "book": "draftkings",
@@ -3868,13 +3625,13 @@
         "best_under": {
           "point": 61.5,
           "book": "fanduel",
-          "price": -115
+          "price": -110
         },
         "all": [
           "draftkings:60.5",
           "betonlineag:60.5",
           "fanduel:61.5",
-          "espnbet:60.5",
+          "espnbet:61.5",
           "betmgm:61.5",
           "betrivers:61.5",
           "bovada:61"
@@ -3910,7 +3667,7 @@
             "betonlineag:+2.5(-110)",
             "draftkings:+2.5(-105)",
             "espnbet:+2.5(-105)",
-            "betmgm:+2.5(-108)",
+            "betmgm:+2.5(-105)",
             "betrivers:+2.5(-114)",
             "bovada:+2.5(-108)"
           ]
@@ -3925,7 +3682,7 @@
             "betonlineag:-2.5(-110)",
             "draftkings:-2.5(-115)",
             "espnbet:-2.5(-115)",
-            "betmgm:-2.5(-110)",
+            "betmgm:-2.5(-112)",
             "betrivers:-2.5(-109)",
             "bovada:-2.5(-112)"
           ]
@@ -3955,14 +3712,14 @@
       },
       "moneyline": {
         "Arizona State Sun Devils": {
-          "consensus": 112,
+          "consensus": 114,
           "best_price": 115,
           "best_book": "betonlineag"
         },
         "Oklahoma State Cowboys": {
-          "consensus": -134,
-          "best_price": -130,
-          "best_book": "betmgm"
+          "consensus": -135,
+          "best_price": -132,
+          "best_book": "betrivers"
         }
       }
     },
@@ -3975,15 +3732,15 @@
       "spreads": {
         "Hawaii Rainbow Warriors": {
           "consensus": 7,
-          "best_point": 7,
-          "best_book": "betonlineag",
-          "best_price": -105,
+          "best_point": 7.5,
+          "best_book": "espnbet",
+          "best_price": -120,
           "all": [
             "draftkings:+7(-110)",
-            "fanduel:+6.5(-108)",
+            "fanduel:+6.5(100)",
             "betonlineag:+7(-105)",
-            "espnbet:+6.5(100)",
-            "betmgm:+7(-110)",
+            "espnbet:+7.5(-120)",
+            "betmgm:+7(-105)",
             "betrivers:+7(-117)",
             "bovada:+7(-112)"
           ]
@@ -3992,13 +3749,13 @@
           "consensus": -7,
           "best_point": -6.5,
           "best_book": "fanduel",
-          "best_price": -112,
+          "best_price": -120,
           "all": [
             "draftkings:-7(-110)",
-            "fanduel:-6.5(-112)",
+            "fanduel:-6.5(-120)",
             "betonlineag:-7(-115)",
-            "espnbet:-6.5(-120)",
-            "betmgm:-7(-108)",
+            "espnbet:-7.5(100)",
+            "betmgm:-7(-112)",
             "betrivers:-7(-106)",
             "bovada:-7(-108)"
           ]
@@ -4028,13 +3785,13 @@
       },
       "moneyline": {
         "Hawaii Rainbow Warriors": {
-          "consensus": 210,
+          "consensus": 220,
           "best_price": 234,
           "best_book": "betonlineag"
         },
         "Nevada Wolf Pack": {
-          "consensus": -265,
-          "best_price": -240,
+          "consensus": -275,
+          "best_price": -255,
           "best_book": "fanduel"
         }
       }
@@ -4049,30 +3806,30 @@
         "Oregon State Beavers": {
           "consensus": -7,
           "best_point": -7,
-          "best_book": "bovada",
+          "best_book": "draftkings",
           "best_price": -108,
           "all": [
-            "draftkings:-7.5(-102)",
+            "draftkings:-7(-108)",
             "betonlineag:-7(-113)",
             "fanduel:-7.5(100)",
             "espnbet:-7.5(100)",
             "betmgm:-7(-110)",
-            "betrivers:-7(-115)",
+            "betrivers:-7(-118)",
             "bovada:-7(-108)"
           ]
         },
         "Utah State Aggies": {
           "consensus": 7,
           "best_point": 7.5,
-          "best_book": "draftkings",
-          "best_price": -118,
+          "best_book": "fanduel",
+          "best_price": -120,
           "all": [
-            "draftkings:+7.5(-118)",
+            "draftkings:+7(-112)",
             "betonlineag:+7(-107)",
             "fanduel:+7.5(-120)",
             "espnbet:+7.5(-120)",
             "betmgm:+7(-108)",
-            "betrivers:+7(-108)",
+            "betrivers:+7(-106)",
             "bovada:+7(-112)"
           ]
         }
@@ -4080,9 +3837,9 @@
       "total": {
         "consensus": 51.5,
         "best_over": {
-          "point": 50.5,
-          "book": "espnbet",
-          "price": -120
+          "point": 51,
+          "book": "bovada",
+          "price": -112
         },
         "best_under": {
           "point": 52,
@@ -4093,9 +3850,9 @@
           "draftkings:51.5",
           "betonlineag:52",
           "fanduel:51.5",
-          "espnbet:50.5",
+          "espnbet:51.5",
           "betmgm:51.5",
-          "betrivers:50.5",
+          "betrivers:51.5",
           "bovada:51"
         ]
       },
@@ -4106,8 +3863,8 @@
           "best_book": "betonlineag"
         },
         "Utah State Aggies": {
-          "consensus": 225,
-          "best_price": 240,
+          "consensus": 220,
+          "best_price": 245,
           "best_book": "betrivers"
         }
       }
